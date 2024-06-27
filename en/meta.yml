@@ -1,11 +1,11 @@
-title: default-project-template
+title: Dinosaur decisions
 hero_image: images/banner.png
-description: default-project-template description
-version: 4
+description: Create a paper based decision tree to classify dinosaurs, and learn how machine learning models use decision trees to classify data.
+version: 1
 listed: false
 copyedit: false
-last_tested: "2022-05-19"
+last_tested: "2024-06-27"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Classify some data
   - title: What next?
