@@ -8,6 +8,7 @@ last_tested: "2024-06-27"
 steps:
   - title: Introduction
   - title: Classify the dinosaurs
-  - title: More dinosaurs
+  - title: Modify the criteria
+  - title: Use more than one split
   - title: Decision tree
   - title: What next?

@@ -10,15 +10,13 @@ Here are some facts about two different dinosaurs:
 | Diplodocus   | 26          | Herbivorous | North America  | 152          | Sauropod  |
 
 
-Each dinosaur has a **category** which describes a group of dinosaurs with similar characteristics. 
+Each dinosaur has a **category** which describes a group of dinosaurs with similar characteristics. We want to be able to tell which category a dinosaur is in, using the facts we have about the dinosaur.
 
-You could separate this data into the two types of dinosaur by asking the question
+You could separate this data into the two types of dinosaur by asking this question:
 
-__"Was it longer than 6 metres?"__
+![Image of a decision tree with the question 'Was it longer than 6 metres?'](images/decision1.png)
 
 If the answer is **yes**, the dinosaur must be a Sauropod, and if it is **no** then it must be a Theropod. 
-
-![Image of a decision tree with the question did it live in Europe and the answers yes and no](images/decision1.png)
 
 --- task ---
 + Think of a different question you could ask to separate out these two categories of dinosaur.
