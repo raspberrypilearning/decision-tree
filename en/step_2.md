@@ -13,7 +13,7 @@ Here are some facts about two different dinosaurs:
 | Concavenator | 6           | Carnivorous | Europe         | 130          | Theropod  |
 | Diplodocus   | 26          | Herbivorous | North America  | 152          | Sauropod  |
 
-You could separate this data into the two types of dinosaur by asking this question:
+You could separate this data into the two <span style="color: #0faeb0">**categories**</span> of dinosaur by asking this question:
 
 ![Image of a decision tree with the question 'Was it longer than 6 metres?'](images/decision1.png)
 

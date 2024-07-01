@@ -24,7 +24,7 @@ Here is a larger set of data about dinosaurs:
 
 --- task ---
 
-+ Draw a decision tree which allows you to correctly identify each **category** of dinosaur. 
++ Draw a decision tree which allows you to correctly identify each <span style="color: #0faeb0">**category**</span> of dinosaur. 
 
 **Tip:** Each question should split the data so that one category of dinosaur is fully identified.
 

@@ -1,7 +1,6 @@
 ## What next?
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+You could try [ProjectName](https://projects.raspberrypi.org/en/projects/project-name). In this project, you will train a machine learning model using a computer.
 
-![ProjectName project](images/projectname-project.png)
+There are lots of other machine learning and AI projects in the [xxx](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) collection.
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
