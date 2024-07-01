@@ -1,7 +1,17 @@
-## What next?
+## More dinosaurs
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
 
-![ProjectName project](images/projectname-project.png)
+Let's add the data for another dinosaur. 
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+| Name       | Length (m)  | Diet        | Continent      | Lived (million years ago)  | Category  |
+|------------|-------------|-------------|----------------|----------------------------|-----------|
+| Allosaurus | 12          | Carnivorous | Europe         | 152                        | Theropod  |
+| Bambiraptor| 1           | Carnivorous | North America  | 84                         | Theropod  |
+| Diplodocus | 26          | Herbivorous | North America  | 152                        | Sauropod  |
+
+
+--- task ---
+
++ Do stuff
+
+--- /task ---
