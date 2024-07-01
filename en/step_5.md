@@ -2,7 +2,7 @@
 
 --- challenge ---
 
-A machine learning model which uses a decision tree must repeatedly refine its criteria. The more data it sees, the more accurate it becomes. 
+A machine learning model which uses a decision tree must repeatedly refine its criteria. The more data it sees, the more accurate it becomes - this is called **training**. We are only using a few criteria here, but a machine learning model might use many _thousands_ of values. 
 
 Here is a larger set of data about dinosaurs: 
 
@@ -22,6 +22,19 @@ Here is a larger set of data about dinosaurs:
 | Parksosaurus     | 3           | Herbivorous | North America  | 76           | Ornithopod     |
 | Zephyrosaurus    | 1.8         | Herbivorous | North America  | 120          | Ornithopod     |
 
+--- task ---
+
++ Draw a decision tree which allows you to correctly identify each **category** of dinosaur. 
+
+**Tip:** Each question should split the data so that one category of dinosaur is fully identified.
+
+--- /task ---
+
+--- task ---
+
++ [Choose another dinosaur](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} and use your decision tree to identify which category it is in. Was your decision tree correct?
+
+--- /task ---
 
 
 

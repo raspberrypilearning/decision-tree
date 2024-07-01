@@ -1,6 +1,6 @@
-## Use more than one split
+## More than one question
 
-Now we have added another new dinosaur, **Herrerasaurus**:
+Let's add another new dinosaur:
 
 | Name         | Length (m)  | Diet        | Continent      | Lived (mya)  | Category  |
 |--------------|-------------|-------------|----------------|--------------|-----------|
@@ -34,8 +34,22 @@ To put dinosaurs in three categories, you need to add another question.
 
 --- task ---
 
-+ Choose a different piece of data from the table, and think of a question about it you could add in the blank space:
++ Choose a **different** piece of data from the table, for example length or diet.
+
++ What question could you write using this data in the blank space to correctly categorise the remaining dinosaurs?
 
 ![A decision tree with the first question 'Did it live more than 130 million years ago?' with yes = Early dinosaur and No = a blank space for a question](images/decision2.png)
+
+--- collapse ---
+--- 
+title: Show me the answer
+---
+Any of the following questions would give the correct category for every dinosaur:
+
+- Is it shorter than 26 metres?
+- Is it a carnivore?
+- Did it live in Europe?
+
+--- /collapse ---
 
 --- /task ---
