@@ -37,5 +37,14 @@ Here is a larger set of data about dinosaurs:
 --- /task ---
 
 
+--- collapse ---
+--- 
+title: Show me the answer
+---
+Here is one possible solution, but there are many valid trees you could draw:
+
+![Final decision tree](images/final-tree.png)
+
+--- /collapse ---
 
 --- /challenge ---
