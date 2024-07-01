@@ -9,8 +9,9 @@ Here are some facts about two different dinosaurs:
 | Concavenator | 6           | Carnivorous | Europe         | 130          | Theropod  |
 | Diplodocus   | 26          | Herbivorous | North America  | 152          | Sauropod  |
 
-
-Each dinosaur has a **category** which describes a group of dinosaurs with similar characteristics. We want to be able to tell which category a dinosaur is in, using the facts we have about the dinosaur.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Project aim: Each dinosaur has a <span style="color: #0faeb0">**category**</span> which describes a group of dinosaurs with similar characteristics. We want to be able to tell which category a dinosaur is in, using the facts we have about the dinosaur.
+</p>
 
 You could separate this data into the two types of dinosaur by asking this question:
 
