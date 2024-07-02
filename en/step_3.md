@@ -9,11 +9,7 @@ Let's add the data for another dinosaur.
 | Diplodocus   | 26          | Herbivorous | North America  | 152          | Sauropod  |
 
 
-The question
-
-__"Was it longer than 6 metres?"__
-
-does not now allow us to separate the dinosaurs into two categories, because the Allosaurus is a Theropod, but it was 12m long.
+The question __"Was it longer than 6 metres?"__ does not now allow us to separate the dinosaurs into two categories, because the Allosaurus is a Theropod, but it was 12m long.
 
 --- task ---
 
