@@ -12,7 +12,7 @@ Let's add another new dinosaur:
 
 --- task ---
 
-+ Is it still possible for you to split the dinosaurs into categories using the question __"Did it live more than 130 million years ago?"__
++ Is it still possible for you to split the dinosaurs into categories using the question __"Did it live more than 130 million years ago?"__?
 
 --- collapse ---
 --- 
