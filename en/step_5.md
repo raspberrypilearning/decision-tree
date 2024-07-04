@@ -22,6 +22,12 @@ Here is a larger set of data about dinosaurs:
 | Parksosaurus     | 3           | Herbivorous | North America  | 76           | Ornithopod     |
 | Zephyrosaurus    | 1.8         | Herbivorous | North America  | 120          | Ornithopod     |
 
+
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Why not download and print these [dinosaur cards](resources/Dinosaur%20cards.pdf) and use them to help you draw the decision tree? (NOTE: these are not the final design)
+</p>
+
 --- task ---
 
 + Draw a decision tree which allows you to correctly identify each <span style="color: #0faeb0">**category**</span> of dinosaur. 
