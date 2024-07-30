@@ -1,6 +1,6 @@
 ## More than one question
 
-Let's add another new dinosaur:
+Let's add another dinosaur:
 
 | Name         | Length (m)  | Diet        | Continent      | Lived (mya)  | Category  |
 |--------------|-------------|-------------|----------------|--------------|-----------|
@@ -19,9 +19,9 @@ Let's add another new dinosaur:
 title: Show me the answer
 ---
 
-No, because there are now three dinosaurs which lived more than 130 million years ago, but they are in different categories. 
+No, because there are now three dinosaurs that lived more than 130 million years ago, but they are in different categories. 
 
-Even if you changed the criteria to **more than 151 million years ago**, you still can't separate into three categories. 
+Even if you changed the criteria to **more than 151 million years ago**, you still can't separate them into three categories. 
 
 
 --- /collapse ---
@@ -32,11 +32,11 @@ To put dinosaurs in three categories, you need to add another question.
 
 --- task ---
 
-+ Choose a **different** piece of data from the table, for example length or diet.
++ Choose a **different** piece of data from the table; for example, length or diet.
 
 + What question could you write using this data in the blank space to correctly categorise the remaining dinosaurs?
 
-![A decision tree with the first question 'Did it live more than 130 million years ago?' with yes = Early dinosaur and No = a blank space for a question](images/decision2.png)
+![A decision tree with the first question 'Did it live more than 151 million years ago?' with yes = Early dinosaur and No = a blank space for a second question.](images/decision2.png)
 
 --- collapse ---
 --- 
@@ -44,8 +44,8 @@ title: Show me the answer
 ---
 Any of the following questions would give the correct category for every dinosaur:
 
-- Is it shorter than 26 metres?
-- Is it a carnivore?
+- Was it shorter than 26 metres?
+- Was it a carnivore?
 - Did it live in Europe?
 
 --- /collapse ---
