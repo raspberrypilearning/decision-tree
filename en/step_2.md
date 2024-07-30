@@ -28,7 +28,7 @@ title: Show me the answer
 ---
 
 - Did it live in North America?
-- Is it carnivorous?
+- Was it carnivorous?
 - Does its name begin with 'C'?
 - Did it live more than 130 million years ago?
 
