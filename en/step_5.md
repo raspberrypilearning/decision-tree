@@ -2,7 +2,7 @@
 
 --- challenge ---
 
-A machine learning model which uses a decision tree must repeatedly refine its criteria. The more data it sees, the more accurate it becomes - this is called **training**. We are only using a few criteria here, but a machine learning model might use many _thousands_ of values. 
+A machine learning model that uses a decision tree must repeatedly refine its criteria. The more data it sees, the more accurate it becomes - this is called **training**. We are only using a few criteria here, but a machine learning model might use many _thousands_ of values. 
 
 Here is a larger set of data about dinosaurs: 
 
@@ -30,7 +30,7 @@ Why not download and print these [dinosaur cards](resources/Dinosaur%20cards.pdf
 
 --- task ---
 
-+ Draw a decision tree which allows you to correctly identify each <span style="color: #0faeb0">**category**</span> of dinosaur. 
++ Draw a decision tree that allows you to correctly identify each <span style="color: #0faeb0">**category**</span> of dinosaur. 
 
 **Tip:** Each question should split the data so that one category of dinosaur is fully identified.
 
