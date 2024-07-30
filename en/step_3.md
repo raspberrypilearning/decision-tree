@@ -9,11 +9,11 @@ Let's add the data for another dinosaur.
 | Diplodocus   | 26          | Herbivorous | North America  | 152          | Sauropod  |
 
 
-The question __"Was it longer than 6 metres?"__ does not now allow us to separate the dinosaurs into two categories, because the Allosaurus is a Theropod, but it was 12m long.
+The question __"Was it longer than 6 metres?"__ does not now allow you to separate the dinosaurs into the two categories any more, because the Allosaurus is a Theropod, but it was 12m long.
 
 --- task ---
 
-+ What one part of the question would you change to make it work again?
++ What part of the question would you change to make it work again?
 
 --- collapse ---
 --- 
