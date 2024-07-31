@@ -20,7 +20,7 @@ You could separate this data into the two <span style="color: #0faeb0">**categor
 If the answer is **yes**, the dinosaur must be a Sauropod, and if it is **no** then it must be a Theropod. 
 
 --- task ---
-+ Think of a different question you could ask to separate out these two categories of dinosaur.
+Think of a different question you could ask to separate out these two categories of dinosaur.
 
 --- collapse ---
 --- 
