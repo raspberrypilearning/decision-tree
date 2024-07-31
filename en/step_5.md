@@ -49,7 +49,7 @@ title: Show me the answer
 ---
 Here is one possible solution, but there are many valid trees you could draw:
 
-![Final decision tree](images/final-tree.png)
+![Final decision tree with questions: Was it less than 26m long, Did it live less than 227m years ago? Was it carnivorous?](images/final-tree.png)
 
 --- /collapse ---
 
