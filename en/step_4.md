@@ -21,7 +21,7 @@ title: Show me the answer
 
 No, because there are now three dinosaurs that lived more than 130 million years ago, but they are in different categories. 
 
-Even if you changed the criteria to **more than 151 million years ago**, you still can't separate them into three categories. 
+Even if you changed the criteria to **more than 152 million years ago**, you still can't separate them into three categories. 
 
 
 --- /collapse ---
@@ -36,7 +36,7 @@ To put dinosaurs in three categories, you need to add another question.
 
 + What question could you write using this data in the blank space to correctly categorise the remaining dinosaurs?
 
-![A decision tree with the first question 'Did it live more than 151 million years ago?' with yes = Early dinosaur and No = a blank space for a second question.](images/decision2.png)
+![A decision tree with the first question 'Did it live more than 152 million years ago?' with yes = Early dinosaur and No = a blank space for a second question.](images/decision2.png)
 
 --- collapse ---
 --- 
