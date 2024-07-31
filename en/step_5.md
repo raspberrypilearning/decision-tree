@@ -2,7 +2,7 @@
 
 --- challenge ---
 
-A machine learning model that uses a decision tree must repeatedly refine its criteria. The more data it sees, the more accurate it becomes - this is called **training**. We are only using a few criteria here, but a machine learning model might use many _thousands_ of values. 
+A machine learning model that uses a decision tree must repeatedly refine its criteria. The more data input, the more accurate it becomes — this is called **training**. We are only using a few criteria here, but a machine learning model might use many **thousands** of values. 
 
 Here is a larger set of data about dinosaurs: 
 
