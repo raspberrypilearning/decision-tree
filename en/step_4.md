@@ -12,7 +12,7 @@ Let's add another dinosaur:
 
 --- task ---
 
-+ Is it still possible for you to split the dinosaurs into categories using the question __"Did it live more than 130 million years ago?"__?
+Is it still possible for you to split the dinosaurs into categories using the question __"Did it live more than 130 million years ago?"__?
 
 --- collapse ---
 --- 
@@ -32,9 +32,9 @@ To put dinosaurs in three categories, you need to add another question.
 
 --- task ---
 
-+ Choose a **different** piece of data from the table; for example, length or diet.
+Choose a **different** piece of data from the table; for example, length or diet.
 
-+ What question could you write using this data in the blank space to correctly categorise the remaining dinosaurs?
+What question could you write using this data in the blank space to correctly categorise the remaining dinosaurs?
 
 ![A decision tree with the first question 'Did it live more than 152 million years ago?' with yes = Early dinosaur and No = a blank space for a second question.](images/decision2.png)
 
