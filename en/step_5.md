@@ -30,7 +30,7 @@ Why not download and print these [dinosaur cards](resources/Dinosaur%20cards.pdf
 
 --- task ---
 
-+ Draw a decision tree that allows you to correctly identify each <span style="color: #0faeb0">**category**</span> of dinosaur. 
+Draw a decision tree that allows you to correctly identify each <span style="color: #0faeb0">**category**</span> of dinosaur. 
 
 **Tip:** Each question should split the data so that one category of dinosaur is fully identified.
 
@@ -38,7 +38,7 @@ Why not download and print these [dinosaur cards](resources/Dinosaur%20cards.pdf
 
 --- task ---
 
-+ [Choose another dinosaur](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} and use your decision tree to identify which category it is in. Was your decision tree correct?
+[Choose another dinosaur](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} and use your decision tree to identify which category it is in. Was your decision tree correct?
 
 --- /task ---
 
@@ -49,7 +49,7 @@ title: Show me the answer
 ---
 Here is one possible solution, but there are many valid trees you could draw:
 
-![Final decision tree with questions: Was it less than 26m long, Did it live less than 227m years ago? Was it carnivorous?](images/final-tree.png)
+![Final decision tree with questions: Was it less than 26m long? Did it live less than 227m years ago? Was it carnivorous?](images/final-tree.png)
 
 --- /collapse ---
 
