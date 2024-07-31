@@ -13,7 +13,7 @@ The question __"Was it longer than 6 metres?"__ no longer helps you to separate 
 
 --- task ---
 
-+ What part of the question would you change to make it work again?
+What part of the question would you change to make it work again?
 
 --- collapse ---
 --- 
