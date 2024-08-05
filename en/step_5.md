@@ -25,7 +25,7 @@ Here is a larger set of data about dinosaurs:
 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Why not download and print these [dinosaur cards](resources/Dinosaur%20cards.pdf){:target="_blank"} and use them to help you draw the decision tree? (NOTE: these are not the final design)
+Why not download and print these [dinosaur cards](resources/dinosaur_cards.pdf){:target="_blank"} and use them to help you draw the decision tree?
 </p>
 
 --- task ---
