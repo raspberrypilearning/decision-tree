@@ -8,7 +8,13 @@ last_tested: "2024-06-27"
 steps:
   - title: What you will make
   - title: Classify the dinosaurs
+    completion:
+    - engaged
   - title: Modify the criteria
   - title: More than one question
   - title: Decision tree
-  - title: What you can do now?
+    completion:
+    - internal
+  - title: What can you do now?
+    completion:
+    - external
