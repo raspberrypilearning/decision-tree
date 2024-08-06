@@ -8,7 +8,7 @@
 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-**Aim of the project:** Each dinosaur has a <span style="color: #0faeb0">**category**</span>. A category describes a group of dinosaurs with similar characteristics. We want to be able to tell which category a dinosaur is in, using the facts we have about the dinosaur.
+**Aim of the project:** Each dinosaur has a <span style="color: #0faeb0">**category**</span>. A category describes a group of dinosaurs with similar characteristics. You need to tell which category a dinosaur is in, using the facts you have about the dinosaur.
 </p>
 
 Here are some facts about two different dinosaurs:

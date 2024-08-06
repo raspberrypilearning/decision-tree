@@ -9,7 +9,7 @@
 </html>
 
 
-A machine learning model that uses a decision tree must repeatedly refine its criteria. The more data input, the more accurate it becomes — this is called **training**. We are only using a few criteria here, but a machine learning model might use many **thousands** of values. 
+A machine learning model that uses a decision tree must repeatedly refine its criteria. The more data input, the more accurate it becomes — this is called **training**. You have only used a few criteria, but a machine learning model might use many **thousands** of values. 
 
 Here is a larger set of data about dinosaurs: 
 
