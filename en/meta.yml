@@ -12,9 +12,10 @@ steps:
     - engaged
   - title: Modify the criteria
   - title: More than one question
-  - title: Decision tree
     completion:
     - internal
+  - title: Decision tree
+    challenge: true
   - title: What can you do now?
     completion:
     - external
