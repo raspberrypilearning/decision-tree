@@ -4,10 +4,17 @@ Some machine learning models use **decision trees** to classify data.
 
 Create your own paper-based decision tree to classify dinosaurs, and learn about how a model is trained.
 
-<html>
-    <iframe style="max-width: 448px;" width="100%" height="796" src="https://www.youtube.com/embed/2zfJ_34_jUg?rel=0&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-    </iframe>    
-</html>
+![Eleven 'cards' with dinosaur pictures and facts about the dinosaurs](images/whatyouwillmake.png)
+
+--- collapse ---
+---
+title: No YouTube? Download the video!
+---
+
+You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/decision-tree-go){:target="_blank"}. 
+
+
+--- /collapse ---
 
 ### Data 
 
