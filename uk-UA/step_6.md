@@ -1,3 +1,3 @@
-## What can you do now?
+## Що ти тепер вмієш?
 
-There are lots of other machine learning and AI projects in the [artificial intelligence](https://projects.raspberrypi.org/en/pathways/ai-toolkit) toolkit.
+У напрямі [«Інструменти штучного інтелекту»](https://projects.raspberrypi.org/en/pathways/ai-toolkit) є багато інших проєктів про машинне навчання та ШІ.
