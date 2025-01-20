@@ -1,4 +1,4 @@
-## Classify the dinosaurs
+## Класифікуй динозаврів
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -7,35 +7,36 @@
 </html>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-**Aim of the project:** Each dinosaur has a <span style="color: #0faeb0">**category**</span>. A category describes a group of dinosaurs with similar characteristics. You need to tell which category a dinosaur is in, using the facts you have about the dinosaur.
+**Мета проєкту:** кожен динозавр має <span style="color: #0faeb0">**категорію**</span>. Категорія описує групу динозаврів зі схожими характеристиками. Ти маєш сказати, до якої категорії відноситься динозавр, використовуючи наявні у тебе факти про цього динозавра.
 </p>
 
-Here are some facts about two different dinosaurs:
+Ось кілька фактів про двох різних динозаврів:
 
-(mya = million years ago)
 
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
-| ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
 
-You could separate this data into the two <span style="color: #0faeb0">**categories**</span> of dinosaur by asking this question:
+| Назва        | Довжина (м) | Їжа        | Континент        | Коли жив (мільйонів років тому) | Категорія |
+| ------------ | ------------------------------ | ---------- | ---------------- | -------------------------------------------------- | --------- |
+| Конкавенатор | 6                              | Мʼясоїдний | Європа           | 130                                                | Теропод   |
+| Диплодок     | 26                             | Травоїдний | Північна Америка | 152                                                | Завропод  |
 
-![Image of a decision tree with the question 'Was it longer than 6 metres?'](images/decision1.png)
+Ти можете розділити ці дані на дві <span style="color: #0faeb0">**категорії**</span> динозаврів, поставивши таке запитання:
 
-If the answer is **yes**, the dinosaur must be a Sauropod, and if it is **no** then it must be a Theropod.
+![Зображення дерева рішень із запитанням «Чи був він довшим за 6 метрів?»](images/decision1.png)
+
+Якщо відповідь **так**, динозавр має бути завроподом, а якщо **ні**, то він має бути тероподом.
 
 \--- task ---
+
 Think of a different question you could ask to separate out these two categories of dinosaur.
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Покажіть мені відповідь
 
-- Did it live in North America?
-- Was it carnivorous?
-- Does its name begin with 'C'?
-- Did it live more than 130 million years ago?
+- Чи жив він у Північній Америці?
+- Чи був він мʼясоїдним?
+- Чи починається його назва на «к»?
+- Чи жив він понад 130 мільйонів років тому?
 
 \--- /collapse ---
 
