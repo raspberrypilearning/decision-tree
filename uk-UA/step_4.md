@@ -1,4 +1,4 @@
-## More than one question
+## Більше одного питання
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,50 +6,50 @@
   </div>
 </html>
 
-Let's add another dinosaur:
+Додамо ще одного динозавра:
 
-| Name          | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
-| ------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
-| Allosaurus    | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
-| Concavenator  | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
-| Diplodocus    | 26                            | Herbivorous | North America | 152                            | Sauropod       |
-| Herrerasaurus | 3                             | Carnivorous | South America | 228                            | Early dinosaur |
+| Назва        | Довжина (м) | Їжа        | Континент        | Коли жив (мільйонів років тому) | Категорія       |
+| ------------ | ------------------------------ | ---------- | ---------------- | -------------------------------------------------- | --------------- |
+| Алозавр      | 12                             | Мʼясоїдний | Європа           | 152                                                | Теропод         |
+| Конкавенатор | 6                              | Мʼясоїдний | Європа           | 130                                                | Теропод         |
+| Диплодок     | 26                             | Травоїдний | Північна Америка | 152                                                | Завропод        |
+| Герреразавр  | 3                              | Мʼясоїдний | Південна Америка | 228                                                | Ранній динозавр |
 
 \--- task ---
 
-Is it possible for you to split the dinosaurs into categories using the question **"Did it live more than 130 million years ago?"**?
+Чи можна розділити динозаврів на категорії за допомогою запитання **«Чи жив він понад 130 мільйонів років тому?»**?
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Покажіть мені відповідь
 
-No, because there are now three dinosaurs that lived more than 130 million years ago, but they are in different categories.
+Ні, тому що зараз у нас є три динозаври, які жили понад 130 мільйонів років тому, але вони належать до різних категорій.
 
-Even if you changed the criteria to **more than 152 million years ago**, you still can't separate them into three categories.
+Навіть якщо ти зміниш критерій на **понад 152 мільйони років тому**, ти все одно не зможеш розділити їх на три категорії.
 
 \--- /collapse ---
 
 \--- /task ---
 
-To put dinosaurs in three categories, you need to add another question.
+Щоб розділити динозаврів на три категорії, потрібно додати ще одне запитання.
 
 \--- task ---
 
-Choose a **different** piece of data from the table; for example, length or diet.
+Вибери **ще один** елемент даних із таблиці; наприклад, довжину або їжу.
 
-What question could you write using this data in the blank space to correctly categorise the remaining dinosaurs?
+Яке запитання можна написати, розмістивши ці дані на місці пропуску, щоб правильно класифікувати решту динозаврів?
 
-![A decision tree with the first question 'Did it live more than 152 million years ago?' with yes = Early dinosaur and No = a blank space for a second question.](images/decision2.png)
+![Дерево рішень із першим запитанням «Чи жив він понад 152 мільйонів років тому?». Відповідь «так» = ранній динозавр, а відповідь «ні» = пробіл для другого запитання.](images/decision2.png)
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Покажіть мені відповідь
 
-Any of the following questions would give the correct category for every dinosaur:
+Будь-яке з наступних питань розподілить кожного динозавра у правильну категорію:
 
-- Was it shorter than 26 metres?
-- Was it a carnivore?
-- Did it live in Europe?
+- Чи був він коротшим за 26 метрів?
+- Чи був він мʼясоїдним?
+- Чи жив він у Європі?
 
 \--- /collapse ---
 
