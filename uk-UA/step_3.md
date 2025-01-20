@@ -1,4 +1,4 @@
-## Modify the criteria
+## Зміни критерії
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,25 +6,25 @@
   </div>
 </html>
 
-Let's add the data for another dinosaur.
+Додамо дані для ще одного динозавра.
 
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
-| ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Allosaurus   | 12                            | Carnivorous | Europe        | 152                            | Theropod |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
+| Назва        | Довжина (м) | Їжа        | Континент        | Коли жив (мільйонів років тому) | Категорія |
+| ------------ | ------------------------------ | ---------- | ---------------- | -------------------------------------------------- | --------- |
+| Алозавр      | 12                             | Мʼясоїдний | Європа           | 152                                                | Теропод   |
+| Конкавенатор | 6                              | Мʼясоїдний | Європа           | 130                                                | Теропод   |
+| Диплодок     | 26                             | Травоїдний | Північна Америка | 152                                                | Завропод  |
 
-The question **"Was it longer than 6 metres?"** no longer helps you to separate the dinosaurs into the two categories, because the Allosaurus is a Theropod, but it was 12m long.
+Запитання **«Чи був він довшим за 6 метрів?»** більше не допоможе тобі розділити динозаврів на дві категорії, оскільки алозавр є тероподом, але його довжина становила 12 метрів.
 
 \--- task ---
 
-What part of the question would you change to make it work again?
+Яку частину запитання треба змінити, щоб воно знову запрацювало?
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Покажіть мені відповідь
 
-Change the size and ask "Was it longer than **12** metres?"
+Зміни розмір динозавра і запитай: «Чи був він довшим за **12** метрів?»
 
 \--- /collapse ---
 
