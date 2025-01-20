@@ -1,4 +1,4 @@
-## Decision tree
+## Дерево рішень
 
 \--- challenge ---
 
@@ -8,51 +8,51 @@
   </div>
 </html>
 
-A machine learning model that uses a decision tree must repeatedly refine its criteria. The more data input, the more accurate it becomes — this is called **training**. You have only used a few criteria, but a machine learning model might use many **thousands** of values.
+Модель машинного навчання, яка використовує дерево рішень, повинна постійно вдосконалювати свої критерії. Чим більше даних вводиться, тим точнішими вони стають — це називається **навчанням**. Ми використали лише кілька критеріїв, але модель машинного навчання може використовувати багато **тисяч** значень.
 
-Here is a larger set of data about dinosaurs:
+Ось більший набір даних про динозаврів:
 
-(mya = million years ago)
 
-| Name            | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
-| --------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
-| Allosaurus      | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
-| Archaeoceratops | 1.3           | Herbivorous | Asia          | 121                            | Ceratopsian    |
-| Bambiraptor     | 1                             | Carnivorous | North America | 84                             | Theropod       |
-| Brachiosaurus   | 30                            | Herbivorous | North America | 155                            | Sauropod       |
-| Chindesaurus    | 4                             | Carnivorous | North America | 227                            | Early dinosaur |
-| Concavenator    | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
-| Diplodocus      | 26                            | Herbivorous | North America | 152                            | Sauropod       |
-| Herrerasaurus   | 3                             | Carnivorous | South America | 228                            | Early dinosaur |
-| Maiasaura       | 9                             | Herbivorous | North America | 80                             | Ornithopod     |
-| Parksosaurus    | 3                             | Herbivorous | North America | 76                             | Ornithopod     |
-| Zephyrosaurus   | 1.8           | Herbivorous | North America | 120                            | Ornithopod     |
+
+| Назва         | Довжина (м) | Їжа        | Континент        | Коли жив (мільйонів років тому) | Категорія       |
+| ------------- | ------------------------------ | ---------- | ---------------- | -------------------------------------------------- | --------------- |
+| Алозавр       | 12                             | Мʼясоїдний | Європа           | 152                                                | Теропод         |
+| Археоцератопс | 1,3                            | Травоїдний | Азія             | 121                                                | Цератопс        |
+| Бембіраптор   | 1                              | Мʼясоїдний | Північна Америка | 84                                                 | Теропод         |
+| Брахіозавр    | 30                             | Травоїдний | Північна Америка | 155                                                | Завропод        |
+| Чиндезавр     | 4                              | Мʼясоїдний | Північна Америка | 227                                                | Ранній динозавр |
+| Конкавенатор  | 6                              | Мʼясоїдний | Європа           | 130                                                | Теропод         |
+| Диплодок      | 26                             | Травоїдний | Північна Америка | 152                                                | Завропод        |
+| Герреразавр   | 3                              | Мʼясоїдний | Південна Америка | 228                                                | Ранній динозавр |
+| Маязавр       | 9                              | Травоїдний | Північна Америка | 80                                                 | Орнітопод       |
+| Парксозавр    | 3                              | Травоїдний | Північна Америка | 76                                                 | Орнітопод       |
+| Зефірозавр    | 1,8                            | Травоїдний | Північна Америка | 120                                                | Орнітопод       |
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Why not download and print these [dinosaur cards](resources/dinosaur_cards.pdf){:target="_blank"} and use them to help you draw the decision tree?
+Спробуй завантажити й роздрукувати ці [картки з динозаврами](resources/dinosaur_cards.pdf){:target="_blank"} і використай їх, щоб намалювати дерево рішень.
 </p>
 
 \--- task ---
 
-Draw a decision tree that allows you to correctly identify each <span style="color: #0faeb0">**category**</span> of dinosaur.
+Намалюй дерево рішень, яке дозволить тобі правильно ідентифікувати кожну <span style="color: #0faeb0">**категорію**</span> динозавра.
 
-**Tip:** Each question should split the data so that one category of dinosaur is fully identified.
+**Порада:** кожне запитання має розділити дані таким чином, щоб повністю визначити одну категорію динозаврів.
 
 \--- /task ---
 
 \--- task ---
 
-[Choose another dinosaur](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} and use your decision tree to identify which category it is in. Was your decision tree correct?
+[Вибери ще одного динозавра](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} і використай дерево рішень, щоб визначити, до якої категорії він належить. Чи правильним виявилось дерево рішень?
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Покажіть мені відповідь
 
-Here is one possible solution, but there are many valid trees you could draw:
+Ось одне з можливих рішень, але ти можеш намалювати багато правильних варіантів дерев:
 
-![Final decision tree with questions: Was it less than 26m long? Did it live less than 227m years ago? Was it carnivorous?](images/final-tree.png)
+![Фінальне дерево рішень із запитаннями: Чи був він коротше за 26 м? Чи жив він менш ніж 227 мільйонів років тому? Чи був він мʼясоїдним?](images/final-tree.png)
 
 \--- /collapse ---
 
