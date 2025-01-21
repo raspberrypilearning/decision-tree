@@ -14,7 +14,7 @@ Laten we de gegevens van nog een dinosaurus toevoegen.
 | Concavenator | 6                             | Vleeseter   | Europa        | 130                               | Theropod  |
 | Diplodocus   | 26                            | Planteneter | Noord-Amerika | 152                               | Sauropod  |
 
-De vraag **"Was het langer dan 6 meter?"** helpt je niet meer om de dinosaurussen in twee categorieën te verdelen, omdat de Allosaurus een Theropod is, maar hij was wel 12 meter lang.
+De vraag **"Was hij langer dan 6 meter?"** helpt je niet meer om de dinosaurussen in twee categorieën te verdelen, omdat de Allosaurus een Theropod is, maar hij was wel 12 meter lang.
 
 \--- task ---
 
@@ -24,7 +24,7 @@ Welk deel van de vraag zou je veranderen zodat het weer werkt?
 
 ## title: Laat me het antwoord zien
 
-Verander de grootte en vraag: "Was het langer dan **12** meter?"
+Verander de grootte en vraag: "Was hij langer dan **12** meter?"
 
 \--- /collapse ---
 
