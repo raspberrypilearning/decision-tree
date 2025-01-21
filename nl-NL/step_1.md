@@ -1,22 +1,22 @@
-## What you will make
+## Wat ga je maken
 
-Some machine learning models use **decision trees** to classify data.
+Sommige machine learning modellen gebruiken **beslisbomen** om gegevens in categoriëen onder te verdelen.
 
-Create your own paper-based decision tree to classify dinosaurs, and learn about how a model is trained.
+Maak je eigen papieren beslisboom om dinosaurussen te classificeren en leer hoe een model wordt getraind.
 
-![Eleven 'cards' with dinosaur pictures and facts about the dinosaurs](images/whatyouwillmake.png)
+![Elf 'kaarten' met afbeeldingen van dinosaurussen en feiten over de dinosaurussen](images/whatyouwillmake.png)
 
 ## --- collapse ---
 
-## title: No YouTube? Download the video!
+## title: Geen YouTube? Download de video!
 
-You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/decision-tree-go){:target="_blank"}.
+Je kunt alle video's voor dit project downloaden, inclusief de bovenstaande video [door hier te klikken](https://rpf.io/p/en/decision-tree-go){:target="_blank"}.
 
 \--- /collapse ---
 
-### Data
+### Gegevens
 
-The data in this project is from the Natural History Museum's [Dino Directory](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"}.
+De gegevens in dit project zijn afkomstig uit de [Dino Directory](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} van het Natural History Museum.
 
-Dinosaur illustrations:
-Allosaurus, Brachiosaurus - Pixabay. Archaeoceratops - Nobu Tamura (CC BY 3.0). Bambiraptor - Conty (CC BY-SA 4.0). Chindesaurus - Jeff Martz (Public domain). Concavenator, Maiasaura - UnexpectedDinoLesson (CC BY-SA 4.0). Diplodocus, Herrerasaurus - Fred Wierum (CC BY-SA 4.0). Parksosaurus - Steveoc 86 (CC BY-SA 3.0). Zephyrosaurus - Emily Willoughby (CC BY-SA 3.0).
+Illustraties van dinosaurussen:
+Allosaurus, Brachiosaurus - Pixabay. Archaeoceratops - Nobu Tamura (CC BY 3.0). Bambiraptor - Conty (CC BY-SA 4.0). Chindesaurus - Jeff Martz (Publiek domein). Concavenator, Maiasaura - UnexpectedDinoLesson (CC BY-SA 4.0). Diplodocus, Herrerasaurus - Fred Wierum (CC BY-SA 4.0). Parksosaurus - Steveoc 86 (CC BY-SA 3.0). Zephyrosaurus - Emily Willoughby (CC BY-SA 3.0).
