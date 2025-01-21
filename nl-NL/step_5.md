@@ -1,4 +1,4 @@
-## Decision tree
+## Beslisboom
 
 \--- challenge ---
 
@@ -12,21 +12,21 @@ A machine learning model that uses a decision tree must repeatedly refine its cr
 
 Here is a larger set of data about dinosaurs:
 
-(mya = million years ago)
+(mjg= miljoen jaar geleden)
 
-| Name            | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
-| --------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
-| Allosaurus      | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
-| Archaeoceratops | 1.3           | Herbivorous | Asia          | 121                            | Ceratopsian    |
-| Bambiraptor     | 1                             | Carnivorous | North America | 84                             | Theropod       |
-| Brachiosaurus   | 30                            | Herbivorous | North America | 155                            | Sauropod       |
-| Chindesaurus    | 4                             | Carnivorous | North America | 227                            | Early dinosaur |
-| Concavenator    | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
-| Diplodocus      | 26                            | Herbivorous | North America | 152                            | Sauropod       |
-| Herrerasaurus   | 3                             | Carnivorous | South America | 228                            | Early dinosaur |
-| Maiasaura       | 9                             | Herbivorous | North America | 80                             | Ornithopod     |
-| Parksosaurus    | 3                             | Herbivorous | North America | 76                             | Ornithopod     |
-| Zephyrosaurus   | 1.8           | Herbivorous | North America | 120                            | Ornithopod     |
+| Naam            | Lengte (m) | Voedsel     | Continent     | Tijdperk (mjg) | Categorie         |
+| --------------- | ----------------------------- | ----------- | ------------- | --------------------------------- | ----------------- |
+| Allosaurus      | 12                            | Vleeseter   | Europa        | 152                               | Theropod          |
+| Archaeoceratops | 1.3           | Planteneter | Asia          | 121                               | Ceratopsian       |
+| Bambiraptor     | 1                             | Vleeseter   | Noord-Amerika | 84                                | Theropod          |
+| Brachiosaurus   | 30                            | Planteneter | Noord-Amerika | 155                               | Sauropod          |
+| Chindesaurus    | 4                             | Vleeseter   | Noord-Amerika | 227                               | Vroege dinosaurus |
+| Concavenator    | 6                             | Vleeseter   | Europa        | 130                               | Theropod          |
+| Diplodocus      | 26                            | Planteneter | Noord-Amerika | 152                               | Sauropod          |
+| Herrerasaurus   | 3                             | Vleeseter   | Zuid-Amerika  | 228                               | Vroege dinosaurus |
+| Maiasaura       | 9                             | Planteneter | Noord-Amerika | 80                                | Ornithopod        |
+| Parksosaurus    | 3                             | Planteneter | Noord-Amerika | 76                                | Ornithopod        |
+| Zephyrosaurus   | 1.8           | Planteneter | Noord-Amerika | 120                               | Ornithopod        |
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 Why not download and print these [dinosaur cards](resources/dinosaur_cards.pdf){:target="_blank"} and use them to help you draw the decision tree?
@@ -48,7 +48,7 @@ Draw a decision tree that allows you to correctly identify each <span style="col
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Laat me het antwoord zien
 
 Here is one possible solution, but there are many valid trees you could draw:
 
