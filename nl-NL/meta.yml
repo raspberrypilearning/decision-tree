@@ -1,27 +1,27 @@
-title: Dinosaur decision tree
+title: Dinosaurus beslisboom
 hero_image: images/banner.png
-description: Create a paper-based decision tree to classify dinosaurs, and learn how machine learning models use decision trees to classify data
+description: Maak een beslisboom op papier om dinosaurussen in verschillende categorieën te verdelen en leer hoe machine learning-modellen beslisbomen gebruiken om gegevens onder te verdelen
 version: 1
 listed: false
 copyedit: false
 last_tested: "2024-06-27"
 steps:
   - 
-    title: What you will make
+    title: Wat ga je maken
   - 
-    title: Classify the dinosaurs
+    title: Dinosaurussen in categorieën onderverdelen
     completion:
       - engaged
   - 
-    title: Modify the criteria
+    title: Wijzig de criteria
   - 
-    title: More than one question
+    title: Meer dan één vraag
     completion:
       - internal
   - 
-    title: Decision tree
+    title: Beslisboom
     challenge: true
   - 
-    title: What can you do now?
+    title: Wat kun je nu doen?
     completion:
       - external
