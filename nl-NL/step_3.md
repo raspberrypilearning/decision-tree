@@ -1,4 +1,4 @@
-## Modify the criteria
+## Wijzig de criteria
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,25 +6,25 @@
   </div>
 </html>
 
-Let's add the data for another dinosaur.
+Laten we de gegevens van nog een dinosaurus toevoegen.
 
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
-| ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Allosaurus   | 12                            | Carnivorous | Europe        | 152                            | Theropod |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
+| Naam         | Lengte (m) | Voedsel     | Continent     | Tijdperk (mjg) | Categorie |
+| ------------ | ----------------------------- | ----------- | ------------- | --------------------------------- | --------- |
+| Allosaurus   | 12                            | Vleeseter   | Europa        | 152                               | Theropod  |
+| Concavenator | 6                             | Vleeseter   | Europa        | 130                               | Theropod  |
+| Diplodocus   | 26                            | Planteneter | Noord-Amerika | 152                               | Sauropod  |
 
-The question **"Was it longer than 6 metres?"** no longer helps you to separate the dinosaurs into the two categories, because the Allosaurus is a Theropod, but it was 12m long.
+De vraag **"Was het langer dan 6 meter?"** helpt je niet meer om de dinosaurussen in twee categorieën te verdelen, omdat de Allosaurus een Theropod is, maar hij was wel 12 meter lang.
 
 \--- task ---
 
-What part of the question would you change to make it work again?
+Welk deel van de vraag zou je veranderen zodat het weer werkt?
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Laat me het antwoord zien
 
-Change the size and ask "Was it longer than **12** metres?"
+Verander de grootte en vraag: "Was het langer dan **12** meter?"
 
 \--- /collapse ---
 
