@@ -21,7 +21,7 @@ Hier zijn enkele feiten over twee verschillende dinosaurussen:
 
 Je kunt deze gegevens opsplitsen in de twee <span style="color: #0faeb0">**categorieën**</span> dinosaurussen door deze vraag te stellen:
 
-![Afbeelding van een beslisboom met de vraag 'Was het langer dan 6 meter?'](images/decision1.png)
+![Afbeelding van een beslisboom met de vraag 'Was hij langer dan 6 meter?'](images/decision1.png)
 
 Als het antwoord **ja** is, dan moet de dinosaurus een Sauropod zijn, als het antwoord **nee** is, dan moet het een Theropod zijn.
 
@@ -33,10 +33,10 @@ Bedenk een andere vraag die je zou kunnen stellen om deze twee categorieën dino
 
 ## title: Laat me het antwoord zien
 
-- Leefde het in Noord-Amerika?
+- Leefde hij in Noord-Amerika?
 - Was het een vleesetend dier?
 - Begint de naam met een 'C'?
-- Leefde het meer dan 130 miljoen jaar geleden?
+- Leefde hij meer dan 130 miljoen jaar geleden?
 
 \--- /collapse ---
 
