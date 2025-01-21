@@ -1,18 +1,18 @@
 1
 00:00:03,800 --> 00:00:07,320
-But what if we add another dinosaur?
+Maar wat als we er nog een dinosaurus aan toevoegen?
 
 2
 00:00:07,320 --> 00:00:12,960
-Allosaurus is longer than 
-6 metres, so it goes here:
+Allosaurus is langer dan
+6 meter, dus hij komt hier te staan:
 
 3
 00:00:12,960 --> 00:00:18,760
-but it's a Theropod, so it should go here.
+maar het is een Theropod, dus hij hoort hier thuis.
 
 4
 00:00:18,760 --> 00:00:27,600
-What part of the question would you change 
-to make the decision tree work again?
+Welk deel van de vraag zou je veranderen
+om de beslisboom weer te laten werken?
 
