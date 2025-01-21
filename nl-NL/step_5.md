@@ -8,41 +8,41 @@
   </div>
 </html>
 
-A machine learning model that uses a decision tree must repeatedly refine its criteria. The more data input, the more accurate it becomes — this is called **training**. You have only used a few criteria, but a machine learning model might use many **thousands** of values.
+Een machine learning-model dat gebruik maakt van een beslisboom, moet de gebruikte criteria steeds meer verfijnen. Hoe meer gegevens je invoert, hoe nauwkeuriger het model wordt — dit wordt **training** genoemd. Je hebt nog maar een paar criteria gebruikt in je vragen, maar een machine learning model kan enkele **duizenden** waarden gebruiken.
 
-Here is a larger set of data about dinosaurs:
+Hier is een grotere set gegevens over dinosaurussen:
 
 (mjg= miljoen jaar geleden)
 
-| Naam            | Lengte (m) | Voedsel     | Continent     | Tijdperk (mjg) | Categorie         |
-| --------------- | ----------------------------- | ----------- | ------------- | --------------------------------- | ----------------- |
-| Allosaurus      | 12                            | Vleeseter   | Europa        | 152                               | Theropod          |
-| Archaeoceratops | 1.3           | Planteneter | Asia          | 121                               | Ceratopsian       |
-| Bambiraptor     | 1                             | Vleeseter   | Noord-Amerika | 84                                | Theropod          |
-| Brachiosaurus   | 30                            | Planteneter | Noord-Amerika | 155                               | Sauropod          |
-| Chindesaurus    | 4                             | Vleeseter   | Noord-Amerika | 227                               | Vroege dinosaurus |
-| Concavenator    | 6                             | Vleeseter   | Europa        | 130                               | Theropod          |
-| Diplodocus      | 26                            | Planteneter | Noord-Amerika | 152                               | Sauropod          |
-| Herrerasaurus   | 3                             | Vleeseter   | Zuid-Amerika  | 228                               | Vroege dinosaurus |
-| Maiasaura       | 9                             | Planteneter | Noord-Amerika | 80                                | Ornithopod        |
-| Parksosaurus    | 3                             | Planteneter | Noord-Amerika | 76                                | Ornithopod        |
-| Zephyrosaurus   | 1.8           | Planteneter | Noord-Amerika | 120                               | Ornithopod        |
+| Naam           | Lengte (m) | Voedsel     | Continent     | Tijdperk (mjg) | Categorie         |
+| -------------- | ----------------------------- | ----------- | ------------- | --------------------------------- | ----------------- |
+| Allosaurus     | 12                            | Vleeseter   | Europa        | 152                               | Theropod          |
+| Archeoceratops | 1.3           | Planteneter | Azië          | 121                               | Ceratopsian       |
+| Bambiraptor    | 1                             | Vleeseter   | Noord-Amerika | 84                                | Theropod          |
+| Brachiosaurus  | 30                            | Planteneter | Noord-Amerika | 155                               | Sauropod          |
+| Chindesaurus   | 4                             | Vleeseter   | Noord-Amerika | 227                               | Vroege Dinosaurus |
+| Concavenator   | 6                             | Vleeseter   | Europa        | 130                               | Theropod          |
+| Diplodocus     | 26                            | Planteneter | Noord-Amerika | 152                               | Sauropod          |
+| Herrerasaurus  | 3                             | Vleeseter   | Zuid-Amerika  | 228                               | Vroege Dinosaurus |
+| Maiasaura      | 9                             | Planteneter | Noord-Amerika | 80                                | Ornithopod        |
+| Parksosaurus   | 3                             | Planteneter | Noord-Amerika | 76                                | Ornithopod        |
+| Zephyrosaurus  | 1.8           | Planteneter | Noord-Amerika | 120                               | Ornithopod        |
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Why not download and print these [dinosaur cards](resources/dinosaur_cards.pdf){:target="_blank"} and use them to help you draw the decision tree?
+Je zou ook deze [dinosauruskaarten](resources/dinosaur_cards.pdf){:target="_blank"} kunnen downloaden en printen en ze gebruiken om de beslisboom te tekenen.
 </p>
 
 \--- task ---
 
-Draw a decision tree that allows you to correctly identify each <span style="color: #0faeb0">**category**</span> of dinosaur.
+Teken een beslisboom waarmee je elke <span style="color: #0faeb0">**categorie**</span> dinosaurus correct kunt identificeren.
 
-**Tip:** Each question should split the data so that one category of dinosaur is fully identified.
+**Tip:** Splits de gegevens bij elke vraag zo op, zodat één categorie dinosaurussen volledig wordt geïdentificeerd.
 
 \--- /task ---
 
 \--- task ---
 
-[Choose another dinosaur](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} and use your decision tree to identify which category it is in. Was your decision tree correct?
+[Kies een andere dinosaurus](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} en gebruik je beslisboom om te bepalen in welke categorie deze valt. Werkte je beslisboom correct?
 
 \--- /task ---
 
@@ -50,9 +50,9 @@ Draw a decision tree that allows you to correctly identify each <span style="col
 
 ## title: Laat me het antwoord zien
 
-Here is one possible solution, but there are many valid trees you could draw:
+Hier is een mogelijke oplossing, maar er zijn veel andere correcte bomen die je kunt tekenen:
 
-![Final decision tree with questions: Was it less than 26m long? Did it live less than 227m years ago? Was it carnivorous?](images/final-tree.png)
+![Definitieve beslisboom met vragen: Was hij korter dan 26 m? Leefde hij minder dan 227 miljoen jaar geleden? Was het een vleeseter?](images/final-tree.png)
 
 \--- /collapse ---
 
