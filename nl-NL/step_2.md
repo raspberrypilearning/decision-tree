@@ -1,4 +1,4 @@
-## Classify the dinosaurs
+## Dinosaurussen in categorieën onderverdelen
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -7,36 +7,36 @@
 </html>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-**Aim of the project:** Each dinosaur has a <span style="color: #0faeb0">**category**</span>. A category describes a group of dinosaurs with similar characteristics. You need to tell which category a dinosaur is in, using the facts you have about the dinosaur.
+**Doel van het project:** Elke dinosaurus heeft een <span style="color: #0faeb0">**categorie**</span>. Een categorie beschrijft een groep dinosaurussen met vergelijkbare kenmerken. Je moet bepalen in welke categorie een dinosaurus valt, door gebruik te maken van de feiten die je over de dinosaurus hebt.
 </p>
 
-Here are some facts about two different dinosaurs:
+Hier zijn enkele feiten over twee verschillende dinosaurussen:
 
-(mya = million years ago)
+(mjg= miljoen jaar geleden)
 
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
-| ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
+| Naam         | Lengte (m) | Voedsel     | Continent     | Tijdperk (mjg) | Categorie |
+| ------------ | ----------------------------- | ----------- | ------------- | --------------------------------- | --------- |
+| Concavenator | 6                             | Vleeseter   | Europa        | 130                               | Theropod  |
+| Diplodocus   | 26                            | Planteneter | Noord-Amerika | 152                               | Sauropod  |
 
-You could separate this data into the two <span style="color: #0faeb0">**categories**</span> of dinosaur by asking this question:
+Je kunt deze gegevens opsplitsen in de twee <span style="color: #0faeb0">**categorieën**</span> dinosaurussen door deze vraag te stellen:
 
-![Image of a decision tree with the question 'Was it longer than 6 metres?'](images/decision1.png)
+![Afbeelding van een beslisboom met de vraag 'Was het langer dan 6 meter?'](images/decision1.png)
 
-If the answer is **yes**, the dinosaur must be a Sauropod, and if it is **no** then it must be a Theropod.
+Als het antwoord **ja** is, dan moet de dinosaurus een Sauropod zijn, als het antwoord **nee** is, dan moet het een Theropod zijn.
 
 \--- task ---
 
-Think of a different question you could ask to separate out these two categories of dinosaur.
+Bedenk een andere vraag die je zou kunnen stellen om deze twee categorieën dinosaurussen te onderscheiden.
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Laat me het antwoord zien
 
-- Did it live in North America?
-- Was it carnivorous?
-- Does its name begin with 'C'?
-- Did it live more than 130 million years ago?
+- Leefde het in Noord-Amerika?
+- Was het een vleesetend dier?
+- Begint de naam met een 'C'?
+- Leefde het meer dan 130 miljoen jaar geleden?
 
 \--- /collapse ---
 
