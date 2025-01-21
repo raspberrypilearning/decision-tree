@@ -1,3 +1,3 @@
-## What can you do now?
+## Wat kun je nu doen?
 
 There are lots of other machine learning and AI projects in the [artificial intelligence](https://projects.raspberrypi.org/en/pathways/ai-toolkit) toolkit.
