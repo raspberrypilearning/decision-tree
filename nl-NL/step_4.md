@@ -13,7 +13,7 @@ Laten we nog een dinosaurus toevoegen:
 | Allosaurus    | 12                            | Vleeseter   | Europa        | 152                               | Theropod          |
 | Concavenator  | 6                             | Vleeseter   | Europa        | 130                               | Theropod          |
 | Diplodocus    | 26                            | Planteneter | Noord-Amerika | 152                               | Sauropod          |
-| Herrerasaurus | 3                             | Vleeseter   | Zuid-Amerika  | 228                               | Vroege dinosaurus |
+| Herrerasaurus | 3                             | Vleeseter   | Zuid-Amerika  | 228                               | Vroege Dinosaurus |
 
 \--- task ---
 
@@ -23,33 +23,33 @@ Kun je de dinosaurussen in categorieën verdelen met behulp van de vraag: **"Lee
 
 ## title: Laat me het antwoord zien
 
-No, because there are now three dinosaurs that lived more than 130 million years ago, but they are in different categories.
+Nee, want er zijn nu drie dinosaurussen die meer dan 130 miljoen jaar geleden leefden, maar ze vallen in verschillende categorieën.
 
-Even if you changed the criteria to **more than 152 million years ago**, you still can't separate them into three categories.
+Zelfs als je de criteria zou veranderen naar **meer dan 152 miljoen jaar geleden**, kun je ze nog steeds niet in drie categorieën verdelen.
 
 \--- /collapse ---
 
 \--- /task ---
 
-To put dinosaurs in three categories, you need to add another question.
+Om dinosaurussen in drie categorieën te kunnen indelen, moet je nog een vraag toevoegen.
 
 \--- task ---
 
-Choose a **different** piece of data from the table; for example, length or diet.
+Kies een **ander** stukje data uit de tabel, bijvoorbeeld lengte of voedsel.
 
-What question could you write using this data in the blank space to correctly categorise the remaining dinosaurs?
+Welke vraag zou je op basis van deze gegevens in de lege ruimte kunnen formuleren om de overgebleven dinosaurussen correct in te delen?
 
-![A decision tree with the first question 'Did it live more than 152 million years ago?' with yes = Early dinosaur and No = a blank space for a second question.](images/decision2.png)
+![Een beslisboom met de eerste vraag 'Leefde hij meer dan 152 miljoen jaar geleden?' met ja = Vroege dinosaurus en nee = een lege ruimte voor een tweede vraag.](images/decision2.png)
 
 ## --- collapse ---
 
 ## title: Laat me het antwoord zien
 
-Any of the following questions would give the correct category for every dinosaur:
+Elk van de volgende vragen geeft de juiste categorie voor elke dinosaurus:
 
-- Was it shorter than 26 metres?
-- Was it a carnivore?
-- Did it live in Europe?
+- Was hij korter dan 26 meter?
+- Was het een vleeseter?
+- Leefde hij in Europa?
 
 \--- /collapse ---
 
