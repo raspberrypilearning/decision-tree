@@ -14,7 +14,8 @@ steps:
   - title: More than one question
     completion:
     - internal
-    - external
   - title: Decision tree
     challenge: true
   - title: What can you do now?
+    completion: 
+    - external
