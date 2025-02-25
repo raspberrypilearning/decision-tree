@@ -1,27 +1,27 @@
-title: Dinosaur decision tree
+title: Albero decisionale dei dinosauri
 hero_image: images/banner.png
-description: Create a paper-based decision tree to classify dinosaurs, and learn how machine learning models use decision trees to classify data
+description: Crea un albero decisionale cartaceo per classificare i dinosauri e scopri come i modelli di apprendimento automatico utilizzano gli alberi decisionale per classificare i dati
 version: 1
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-06-27"
 steps:
   - 
-    title: What you will make
+    title: Cosa creerai
   - 
-    title: Classify the dinosaurs
+    title: Classifica i dinosauri
     completion:
       - engaged
   - 
-    title: Modify the criteria
+    title: Modifica i criteri
   - 
-    title: More than one question
+    title: Più di una domanda
     completion:
       - internal
   - 
-    title: Decision tree
+    title: Albero decisionale
     challenge: true
   - 
-    title: What can you do now?
+    title: Cosa puoi fare adesso?
     completion:
       - external
