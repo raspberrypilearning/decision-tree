@@ -1,4 +1,4 @@
-## Classify the dinosaurs
+## Classifica i dinosauri
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -7,36 +7,36 @@
 </html>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-**Aim of the project:** Each dinosaur has a <span style="color: #0faeb0">**category**</span>. A category describes a group of dinosaurs with similar characteristics. You need to tell which category a dinosaur is in, using the facts you have about the dinosaur.
+**Scopo del progetto:** Ogni dinosauro ha una **categoria** <span style="color: #0faeb0"></span>. Una categoria descrive un gruppo di dinosauri con caratteristiche simili. Devi determinare a quale categoria appartiene un dinosauro, basandoti sui dati a tua disposizione.
 </p>
 
-Here are some facts about two different dinosaurs:
+Ecco alcuni fatti su due diversi dinosauri:
 
-(mya = million years ago)
+(ma = milioni di anni fa)
 
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
-| ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
+| Nome         | Lunghezza (m) | Dieta     | Continente       | Vissuto (ma) | Categoria |
+| ------------ | -------------------------------- | --------- | ---------------- | ------------------------------- | --------- |
+| Concavenator | 6                                | Carnivoro | Europa           | 130                             | Teropode  |
+| Diplodoco    | 26                               | Erbivoro  | America del Nord | 152                             | Sauropoda |
 
-You could separate this data into the two <span style="color: #0faeb0">**categories**</span> of dinosaur by asking this question:
+Puoi separare questi dati nelle due <span style="color: #0faeb0">**categorie**</span> di dinosauri ponendo questa domanda:
 
-![Image of a decision tree with the question 'Was it longer than 6 metres?'](images/decision1.png)
+![Immagine di un albero decisionale con la domanda "Superava i 6 metri di lunghezza?"](images/decision1.png)
 
-If the answer is **yes**, the dinosaur must be a Sauropod, and if it is **no** then it must be a Theropod.
+Se la risposta è **sì**, il dinosauro deve essere un sauropoda, se invece è **no**, allora deve essere un teropode.
 
 \--- task ---
 
-Think of a different question you could ask to separate out these two categories of dinosaur.
+Pensa a una domanda diversa che potresti porre per distinguere queste due categorie di dinosauri.
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Mostrami la risposta
 
-- Did it live in North America?
-- Was it carnivorous?
-- Does its name begin with 'C'?
-- Did it live more than 130 million years ago?
+- Viveva in Nord America?
+- Era carnivoro?
+- Il suo nome inizia con la lettera "C"?
+- È vissuto più di 130 milioni di anni fa?
 
 \--- /collapse ---
 
