@@ -1,4 +1,4 @@
-## Modify the criteria
+## Modifier les critères
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,25 +6,25 @@
   </div>
 </html>
 
-Let's add the data for another dinosaur.
+Ajoutons les données pour un autre dinosaure.
 
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
-| ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Allosaurus   | 12                            | Carnivorous | Europe        | 152                            | Theropod |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
+| Nom          | Longueur (m) | Alimentation | Continent        | A vécu (mda) | Catégorie |
+| ------------ | ------------------------------- | ------------ | ---------------- | ------------------------------- | --------- |
+| Allosaure    | 12                              | Carnivore    | Europe           | 152                             | Théropode |
+| Concavenator | 6                               | Carnivore    | Europe           | 130                             | Théropode |
+| Diplodocus   | 26                              | Herbivore    | Amérique du Nord | 152                             | Sauropode |
 
-The question **"Was it longer than 6 metres?"** no longer helps you to separate the dinosaurs into the two categories, because the Allosaurus is a Theropod, but it was 12m long.
+La question « Était-il plus long que 6 mètres ? » ne t'aide plus à séparer les dinosaures en deux catégories, car l'Allosaure est un théropode, mais il mesurait 12 m de long.
 
 \--- task ---
 
-What part of the question would you change to make it work again?
+Quelle partie de la question changerais-tu pour qu'elle fonctionne à nouveau ?
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Montrer la réponse
 
-Change the size and ask "Was it longer than **12** metres?"
+Modifie la taille et demande : « Était-il plus long que **12** mètres ? »
 
 \--- /collapse ---
 
