@@ -1,32 +1,32 @@
 1
 00:00:04,433 --> 00:00:07,866
-You can use a decision tree to categorise dinosaurs.
+Tu peux utiliser un arbre de décision pour classer les dinosaures.
 
 2
 00:00:08,032 --> 00:00:10,165
-This dinosaur is a Theropod
+Ce dinosaure est un théropode
 
 3
 00:00:10,732 --> 00:00:12,831
-and this one is a Sauropod.
+et celui-ci est un sauropode.
 
 4
 00:00:12,998 --> 00:00:16,097
-To categorise these two dinosaurs you could ask the question:
+Pour catégoriser ces deux dinosaures, tu peux poser cette question :
 
 5
 00:00:16,164 --> 00:00:18,399
-"Was it longer than 6 metres?"
+« Était-il plus long que 6 mètres ? »
 
 6
 00:00:20,396 --> 00:00:24,762
-Given only these two dinosaurs, if it's longer than 6 metres it's a Sauropod
+Si l'on s'en tient à ces deux dinosaures, s'il mesure plus de 6 mètres de long, il s'agit d'un sauropode
 
 7
 00:00:24,762 --> 00:00:27,195
-and if it's not, it's a Theropod.
+et si ce n'est pas le cas, c'est un théropode.
 
 8
 00:00:30,228 --> 00:00:34,860
-Think of a different question you could ask to separate out these two categories of dinosaur.
+Réfléchis à une question différente que tu pourrais poser pour distinguer ces deux catégories de dinosaures.
 
