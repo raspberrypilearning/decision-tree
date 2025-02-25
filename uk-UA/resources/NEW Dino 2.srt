@@ -1,18 +1,18 @@
 1
 00:00:03,800 --> 00:00:07,320
-But what if we add another dinosaur?
+А якщо ми додамо ще одного динозавра?
 
 2
 00:00:07,320 --> 00:00:12,960
-Allosaurus is longer than 
-6 metres, so it goes here:
+Алозавр довший за 6 метрів,
+тому він має бути тут.
 
 3
 00:00:12,960 --> 00:00:18,760
-but it's a Theropod, so it should go here.
+Але він теропод, тому має бути тут.
 
 4
 00:00:18,760 --> 00:00:27,600
-What part of the question would you change 
-to make the decision tree work again?
+Яку частину запитання треба змінити,
+щоб дерево рішень знову запрацювало?
 
