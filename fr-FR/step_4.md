@@ -1,4 +1,4 @@
-## More than one question
+## Plus d'une question
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,50 +6,50 @@
   </div>
 </html>
 
-Let's add another dinosaur:
+Ajoutons un autre dinosaure :
 
-| Name          | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
-| ------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
-| Allosaurus    | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
-| Concavenator  | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
-| Diplodocus    | 26                            | Herbivorous | North America | 152                            | Sauropod       |
-| Herrerasaurus | 3                             | Carnivorous | South America | 228                            | Early dinosaur |
+| Nom           | Longueur (m) | Alimentation | Continent        | A vécu (mda) | Catégorie         |
+| ------------- | ------------------------------- | ------------ | ---------------- | ------------------------------- | ----------------- |
+| Allosaure     | 12                              | Carnivore    | Europe           | 152                             | Théropode         |
+| Concavenator  | 6                               | Carnivore    | Europe           | 130                             | Théropode         |
+| Diplodocus    | 26                              | Herbivore    | Amérique du Nord | 152                             | Sauropode         |
+| Herrerasaurus | 3                               | Carnivore    | Amérique du Sud  | 228                             | Premier dinosaure |
 
 \--- task ---
 
-Is it possible for you to split the dinosaurs into categories using the question **"Did it live more than 130 million years ago?"**?
+Est-il possible de diviser les dinosaures en catégories en utilisant la question **« A-t-il vécu il y a plus de 130 millions d'années ? »** ?
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Montrer la réponse
 
-No, because there are now three dinosaurs that lived more than 130 million years ago, but they are in different categories.
+Non, car il existe maintenant trois dinosaures qui ont vécu il y a plus de 130 millions d’années, mais ils appartiennent à des catégories différentes.
 
-Even if you changed the criteria to **more than 152 million years ago**, you still can't separate them into three categories.
+Même si tu changeais les critères à **il y a plus de 152 millions d'années**, tu ne pourrais toujours pas les séparer en trois catégories.
 
 \--- /collapse ---
 
 \--- /task ---
 
-To put dinosaurs in three categories, you need to add another question.
+Pour classer les dinosaures en trois catégories, il faut ajouter une autre question.
 
 \--- task ---
 
-Choose a **different** piece of data from the table; for example, length or diet.
+Choisis une donnée **différente** dans le tableau ; par exemple, la longueur ou l'alimentation.
 
-What question could you write using this data in the blank space to correctly categorise the remaining dinosaurs?
+Quelle question pourrais-tu écrire en utilisant ces données dans l'espace vide pour classer correctement les dinosaures restants ?
 
-![A decision tree with the first question 'Did it live more than 152 million years ago?' with yes = Early dinosaur and No = a blank space for a second question.](images/decision2.png)
+![Un arbre de décision avec la première question "A-t-il vécu il y a plus de 152 millions d'années ?" avec oui = Premier dinosaure et non = un espace vide pour une deuxième question.](images/decision2.png)
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Montrer la réponse
 
-Any of the following questions would give the correct category for every dinosaur:
+L’une des questions suivantes donnerait la catégorie correcte pour chaque dinosaure :
 
-- Was it shorter than 26 metres?
-- Was it a carnivore?
-- Did it live in Europe?
+- Était-il moins long que 26 mètres ?
+- Était-il carnivore ?
+- A-t-il vécu en Europe ?
 
 \--- /collapse ---
 
