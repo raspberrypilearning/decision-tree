@@ -1,4 +1,4 @@
-## More than one question
+## Più di una domanda
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,50 +6,50 @@
   </div>
 </html>
 
-Let's add another dinosaur:
+Aggiungiamo un altro dinosauro:
 
-| Name          | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
-| ------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
-| Allosaurus    | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
-| Concavenator  | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
-| Diplodocus    | 26                            | Herbivorous | North America | 152                            | Sauropod       |
-| Herrerasaurus | 3                             | Carnivorous | South America | 228                            | Early dinosaur |
+| Nome          | Lunghezza (m) | Dieta     | Continente       | Vissuto (ma) | Categoria           |
+| ------------- | -------------------------------- | --------- | ---------------- | ------------------------------- | ------------------- |
+| Allosauro     | 12                               | Carnivoro | Europa           | 152                             | Teropode            |
+| Concavenator  | 6                                | Carnivoro | Europa           | 130                             | Teropode            |
+| Diplodoco     | 26                               | Erbivoro  | America del Nord | 152                             | Sauropoda           |
+| Herrerasaurus | 3                                | Carnivoro | Sud America      | 228                             | Dinosauro primitivo |
 
 \--- task ---
 
-Is it possible for you to split the dinosaurs into categories using the question **"Did it live more than 130 million years ago?"**?
+È possibile dividere i dinosauri in categorie utilizzando la domanda **"Erano vissuti più di 130 milioni di anni fa?"**?
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Mostrami la risposta
 
-No, because there are now three dinosaurs that lived more than 130 million years ago, but they are in different categories.
+No, perché ci sono tre dinosauri vissuti più di 130 milioni di anni fa, ma appartengono a categorie diverse.
 
-Even if you changed the criteria to **more than 152 million years ago**, you still can't separate them into three categories.
+Anche se modificassimo il criterio in **più di 152 milioni di anni fa**, non potremmo comunque separarli in tre categorie.
 
 \--- /collapse ---
 
 \--- /task ---
 
-To put dinosaurs in three categories, you need to add another question.
+Per dividere i dinosauri in tre categorie, devi aggiungere un'altra domanda.
 
 \--- task ---
 
-Choose a **different** piece of data from the table; for example, length or diet.
+Scegli un dato **diverso** dalla tabella, ad esempio lunghezza o dieta.
 
-What question could you write using this data in the blank space to correctly categorise the remaining dinosaurs?
+Quale domanda potresti scrivere utilizzando questi dati nello spazio vuoto per categorizzare correttamente i dinosauri rimanenti?
 
-![A decision tree with the first question 'Did it live more than 152 million years ago?' with yes = Early dinosaur and No = a blank space for a second question.](images/decision2.png)
+![Un albero decisionale con la prima domanda "È vissuto più di 152 milioni di anni fa?" con Sì = Dinosauro primitivo, e No = uno spazio vuoto per una seconda domanda.](images/decision2.png)
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Mostrami la risposta
 
-Any of the following questions would give the correct category for every dinosaur:
+Ognuna delle seguenti domande fornisce la categoria corretta per ogni dinosauro:
 
-- Was it shorter than 26 metres?
-- Was it a carnivore?
-- Did it live in Europe?
+- Aveva una lunghezza inferiore a 26 metri?
+- Era carnivoro?
+- Viveva in Europa?
 
 \--- /collapse ---
 
