@@ -1,4 +1,4 @@
-## Modify the criteria
+## Modifica i criteri
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,25 +6,25 @@
   </div>
 </html>
 
-Let's add the data for another dinosaur.
+Aggiungiamo i dati di un altro dinosauro.
 
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
-| ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Allosaurus   | 12                            | Carnivorous | Europe        | 152                            | Theropod |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
+| Nome         | Lunghezza (m) | Dieta     | Continente       | Vissuto (ma) | Categoria |
+| ------------ | -------------------------------- | --------- | ---------------- | ------------------------------- | --------- |
+| Allosauro    | 12                               | Carnivoro | Europa           | 152                             | Teropode  |
+| Concavenator | 6                                | Carnivoro | Europa           | 130                             | Teropode  |
+| Diplodoco    | 26                               | Erbivoro  | America del Nord | 152                             | Sauropoda |
 
-The question **"Was it longer than 6 metres?"** no longer helps you to separate the dinosaurs into the two categories, because the Allosaurus is a Theropod, but it was 12m long.
+La domanda "Superava i 6 metri di lunghezza?" non è più utile per separare i dinosauri nelle due categorie, perché l'allosauro, pur essendo un teropode, era lungo 12 metri.
 
 \--- task ---
 
-What part of the question would you change to make it work again?
+Quale modifica faresti alla domanda per renderla valida?
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Mostrami la risposta
 
-Change the size and ask "Was it longer than **12** metres?"
+Cambia le dimensioni e chiedi "Superava i **12** metri di lunghezza?"
 
 \--- /collapse ---
 
