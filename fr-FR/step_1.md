@@ -1,22 +1,22 @@
-## What you will make
+## Ce que tu vas faire
 
-Some machine learning models use **decision trees** to classify data.
+Certains modèles d’apprentissage automatique utilisent des **arbres de décision** pour classer les données.
 
-Create your own paper-based decision tree to classify dinosaurs, and learn about how a model is trained.
+Crée ton propre arbre de décision sur papier pour classer les dinosaures et découvre comment un modèle est entraîné.
 
-![Eleven 'cards' with dinosaur pictures and facts about the dinosaurs](images/whatyouwillmake.png)
+![Onze "cartes" avec des images de dinosaures et des faits sur les dinosaures](images/whatyouwillmake.png)
 
 ## --- collapse ---
 
-## title: No YouTube? Download the video!
+## title: Pas de YouTube ? Télécharger la vidéo !
 
-You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/decision-tree-go){:target="_blank"}.
+Tu peux télécharger toutes les vidéos de ce projet, y compris la vidéo ci-dessus [en cliquant ici](https://rpf.io/p/en/decision-tree-go){:target="_blank"}.
 
 \--- /collapse ---
 
-### Data
+### Données
 
-The data in this project is from the Natural History Museum's [Dino Directory](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"}.
+Les données utilisées dans ce projet proviennent du [Dino Directory] du Musée d'histoire naturelle (https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"}.
 
-Dinosaur illustrations:
-Allosaurus, Brachiosaurus - Pixabay. Archaeoceratops - Nobu Tamura (CC BY 3.0). Bambiraptor - Conty (CC BY-SA 4.0). Chindesaurus - Jeff Martz (Public domain). Concavenator, Maiasaura - UnexpectedDinoLesson (CC BY-SA 4.0). Diplodocus, Herrerasaurus - Fred Wierum (CC BY-SA 4.0). Parksosaurus - Steveoc 86 (CC BY-SA 3.0). Zephyrosaurus - Emily Willoughby (CC BY-SA 3.0).
+Illustrations de dinosaures :
+Allosaure, Brachiosaure - Pixabay. Archéocératops - Nobu Tamura (CC BY 3.0). Bambiraptor - Conty (CC BY-SA 4.0). Chindesaurus - Jeff Martz (Domaine public). Concavenator, Maiasaura - UnexpectedDinoLesson (CC BY-SA 4.0). Diplodocus, Herrerasaurus - Fred Wierum (CC BY-SA 4.0). Parksosaure - Steveoc 86 (CC BY-SA 3.0). Zéphyrosaure - Emily Willoughby (CC BY-SA 3.0).
