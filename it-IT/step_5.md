@@ -1,4 +1,4 @@
-## Decision tree
+## Albero decisionale
 
 \--- challenge ---
 
@@ -8,51 +8,51 @@
   </div>
 </html>
 
-A machine learning model that uses a decision tree must repeatedly refine its criteria. The more data input, the more accurate it becomes — this is called **training**. You have only used a few criteria, but a machine learning model might use many **thousands** of values.
+Un modello di apprendimento automatico che utilizza un albero decisionale deve perfezionare ripetutamente i suoi criteri. Più dati vengono inseriti, più il modello diventa accurato: questo processo è chiamato **addestramento**. Nel tuo caso hai utilizzato solo pochi criteri, ma un modello di apprendimento automatico può basarsi su **migliaia** di valori.
 
-Here is a larger set of data about dinosaurs:
+Ecco un set di dati più ampio sui dinosauri:
 
-(mya = million years ago)
+(ma = milioni di anni fa)
 
-| Name            | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
-| --------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
-| Allosaurus      | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
-| Archaeoceratops | 1.3           | Herbivorous | Asia          | 121                            | Ceratopsian    |
-| Bambiraptor     | 1                             | Carnivorous | North America | 84                             | Theropod       |
-| Brachiosaurus   | 30                            | Herbivorous | North America | 155                            | Sauropod       |
-| Chindesaurus    | 4                             | Carnivorous | North America | 227                            | Early dinosaur |
-| Concavenator    | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
-| Diplodocus      | 26                            | Herbivorous | North America | 152                            | Sauropod       |
-| Herrerasaurus   | 3                             | Carnivorous | South America | 228                            | Early dinosaur |
-| Maiasaura       | 9                             | Herbivorous | North America | 80                             | Ornithopod     |
-| Parksosaurus    | 3                             | Herbivorous | North America | 76                             | Ornithopod     |
-| Zephyrosaurus   | 1.8           | Herbivorous | North America | 120                            | Ornithopod     |
+| Nome            | Lunghezza (m) | Dieta     | Continente       | Vissuto (ma) | Categoria           |
+| --------------- | -------------------------------- | --------- | ---------------- | ------------------------------- | ------------------- |
+| Allosauro       | 12                               | Carnivoro | Europa           | 152                             | Teropode            |
+| Archaeoceratops | 1,3                              | Erbivoro  | Asia             | 121                             | Ceratopsiano        |
+| Bambiraptor     | 1                                | Carnivoro | America del Nord | 84                              | Teropode            |
+| Brachiosauro    | 30                               | Erbivoro  | America del Nord | 155                             | Sauropoda           |
+| Chindesauro     | 4                                | Carnivoro | America del Nord | 227                             | Dinosauro primitivo |
+| Concavenator    | 6                                | Carnivoro | Europa           | 130                             | Teropode            |
+| Diplodoco       | 26                               | Erbivoro  | America del Nord | 152                             | Sauropoda           |
+| Herrerasauro    | 3                                | Carnivoro | Sud America      | 228                             | Dinosauro primitivo |
+| Maiasaura       | 9                                | Erbivoro  | America del Nord | 80                              | Ornitopode          |
+| Parksosauro     | 3                                | Erbivoro  | America del Nord | 76                              | Ornitopode          |
+| Zefirosauro     | 1,8                              | Erbivoro  | America del Nord | 120                             | Ornitopode          |
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Why not download and print these [dinosaur cards](resources/dinosaur_cards.pdf){:target="_blank"} and use them to help you draw the decision tree?
+Perché non scarichi e stampi queste [schede dei dinosauri](resources/dinosaur_cards.pdf){:target="_blank"} per usarle come aiuto nel disegnare l'albero decisionale?
 </p>
 
 \--- task ---
 
-Draw a decision tree that allows you to correctly identify each <span style="color: #0faeb0">**category**</span> of dinosaur.
+Disegna un albero decisionale per classificare correttamente ogni <span style="color: #0faeb0">**categoria**</span> di dinosauro.
 
-**Tip:** Each question should split the data so that one category of dinosaur is fully identified.
+**Suggerimento:** ogni domanda dovrebbe suddividere i dati in modo che alla fine ogni categoria sia chiaramente identificata.
 
 \--- /task ---
 
 \--- task ---
 
-[Choose another dinosaur](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} and use your decision tree to identify which category it is in. Was your decision tree correct?
+[Scegli un altro dinosauro](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} e usa il tuo albero decisionale per scoprire a quale categoria appartiene. Il tuo albero decisionale era corretto?
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Mostrami la risposta
 
-Here is one possible solution, but there are many valid trees you could draw:
+Ecco una possibile soluzione, ma ci sono molti altri alberi decisionali validi che potresti creare:
 
-![Final decision tree with questions: Was it less than 26m long? Did it live less than 227m years ago? Was it carnivorous?](images/final-tree.png)
+![Albero decisionale finale con domande: Aveva una lunghezza inferiore a 26 metri? È vissuto meno di 227 milioni di anni fa? Era carnivoro?](images/final-tree.png)
 
 \--- /collapse ---
 
