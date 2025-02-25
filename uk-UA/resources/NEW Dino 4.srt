@@ -1,22 +1,22 @@
 1
 00:00:04,360 --> 00:00:09,600
-A machine learning model that uses a decision 
-tree must repeatedly refine its criteria.
+Модель машинного навчання, яка використовує дерево рішень,
+повинна постійно вдосконалювати свої критерії.
 
 2
 00:00:09,600 --> 00:00:12,880
-The more data input, the more accurate it becomes.
+Чим більше даних вводиться, тим точнішою стає модель.
 
 3
 00:00:12,880 --> 00:00:15,040
-This is called training.
+Це називається тренуванням.
 
 4
 00:00:15,040 --> 00:00:18,160
-Use what you have learned to draw 
-a decision tree that allows you  
+Використай набуті знання,
+щоб намалювати дерево рішень,
 
 5
 00:00:18,160 --> 00:00:29,720
-to correctly identify each category of dinosaur.
+яке правильно визначить категорію кожного динозавра.
 
