@@ -1,28 +1,28 @@
 1
 00:00:04,480 --> 00:00:06,880
-What happens if we add another dinosaur?
+Cosa succede se aggiungiamo un altro dinosauro?
 
 2
 00:00:06,880 --> 00:00:15,000
-The question "Did it live more than 130 million 
-years ago?" splits the dinosaurs like this:
+La domanda "È vissuto più di 130 milioni di
+anni fa?" divide i dinosauri in questo modo:
 
 3
 00:00:15,000 --> 00:00:16,560
-That's not much use!
+Non è di grande aiuto!
 
 4
 00:00:16,560 --> 00:00:20,880
-But even if we switch the question 
-to '152 million years ago',  
+Ma anche se cambiamo la soglia
+a "152 milioni di anni fa",
 
 5
 00:00:20,880 --> 00:00:29,600
-we still can't categorise the 
-dinosaurs using only one question.
+non riusciamo comunque a 
+classificarli con una sola domanda.
 
 6
 00:00:29,600 --> 00:00:42,920
-What question could you use to 
-categorise the remaining dinosaurs?
+Quale domanda potresti fare per
+categorizzare i dinosauri rimasti?
 
