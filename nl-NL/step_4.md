@@ -13,7 +13,7 @@ Laten we nog een dinosaurus toevoegen:
 | Allosaurus    | 12                            | Vleeseter   | Europa        | 152                               | Theropod          |
 | Concavenator  | 6                             | Vleeseter   | Europa        | 130                               | Theropod          |
 | Diplodocus    | 26                            | Planteneter | Noord-Amerika | 152                               | Sauropod          |
-| Herrerasaurus | 3                             | Vleeseter   | Zuid-Amerika  | 228                               | Vroege Dinosaurus |
+| Herrerasaurus | 3                             | Vleeseter   | Zuid-Amerika  | 228                               | Vroege dinosaurus |
 
 \--- task ---
 
