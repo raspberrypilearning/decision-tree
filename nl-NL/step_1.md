@@ -1,6 +1,6 @@
 ## Wat ga je maken
 
-Sommige machine learning modellen gebruiken **beslisbomen** om gegevens in categoriëen onder te verdelen.
+Sommige machine learning-modellen gebruiken **beslisbomen** om gegevens in categoriëen onder te verdelen.
 
 Maak je eigen papieren beslisboom om dinosaurussen te classificeren en leer hoe een model wordt getraind.
 
