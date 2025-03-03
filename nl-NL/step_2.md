@@ -12,7 +12,7 @@
 
 Hier zijn enkele feiten over twee verschillende dinosaurussen:
 
-(mjg= miljoen jaar geleden)
+(mjg= miljoenen jaren geleden)
 
 | Naam         | Lengte (m) | Voedsel     | Continent     | Tijdperk (mjg) | Categorie |
 | ------------ | ----------------------------- | ----------- | ------------- | --------------------------------- | --------- |
