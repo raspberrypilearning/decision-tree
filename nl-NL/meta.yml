@@ -22,6 +22,6 @@ steps:
     title: Beslisboom
     challenge: true
   - 
-    title: Wat kun je nu doen?
+    title: Wat kun je verder nog doen?
     completion:
       - external
