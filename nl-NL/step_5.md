@@ -8,11 +8,11 @@
   </div>
 </html>
 
-Een machine learning-model dat gebruik maakt van een beslisboom, moet de gebruikte criteria steeds meer verfijnen. Hoe meer gegevens je invoert, hoe nauwkeuriger het model wordt — dit wordt **training** genoemd. Je hebt nog maar een paar criteria gebruikt in je vragen, maar een machine learning model kan enkele **duizenden** waarden gebruiken.
+Een machine learning-model dat gebruik maakt van een beslisboom, moet de gebruikte criteria steeds verder verfijnen. Hoe meer gegevens je invoert, hoe nauwkeuriger het model wordt — dit wordt **training** genoemd. Je hebt nog maar een paar criteria gebruikt in je vragen, maar een machine learning model kan enkele **duizenden** waarden gebruiken.
 
-Hier is een grotere set gegevens over dinosaurussen:
+Hier is een grotere verzameling gegevens over dinosaurussen:
 
-(mjg= miljoen jaar geleden)
+(mjg= miljoenen jaren geleden)
 
 | Naam           | Lengte (m) | Voedsel     | Continent     | Tijdperk (mjg) | Categorie         |
 | -------------- | ----------------------------- | ----------- | ------------- | --------------------------------- | ----------------- |
