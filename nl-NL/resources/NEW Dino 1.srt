@@ -1,0 +1,32 @@
+1
+00:00:04,433 --> 00:00:07,866
+Je kunt een beslisboom gebruiken om dinosaurussen in categoriëen te verdelen.
+
+2
+00:00:08,032 --> 00:00:10,165
+Deze dinosaurus is een Theropod
+
+3
+00:00:10,732 --> 00:00:12,831
+en dit is een Sauropod.
+
+4
+00:00:12,998 --> 00:00:16,097
+Om deze twee dinosaurussen in categoriëen te verdelen, kun je de vraag stellen:
+
+5
+00:00:16,164 --> 00:00:18,399
+"Was hij langer dan 6 meter?"
+
+6
+00:00:20,396 --> 00:00:24,762
+Omdat het nu nog alleen om deze twee dinosaurussen gaat, is het een Sauropod als hij langer is dan 6 meter
+
+7
+00:00:24,762 --> 00:00:27,195
+en als dat niet zo is, dan is het een Theropod.
+
+8
+00:00:30,228 --> 00:00:34,860
+Bedenk een andere vraag die je zou kunnen stellen om deze twee categorieën dinosaurussen te onderscheiden.
+

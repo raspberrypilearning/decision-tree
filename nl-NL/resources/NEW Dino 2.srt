@@ -1,0 +1,18 @@
+1
+00:00:03,800 --> 00:00:07,320
+Maar wat als we er nog een dinosaurus aan toevoegen?
+
+2
+00:00:07,320 --> 00:00:12,960
+Allosaurus is langer dan
+6 meter, dus hij komt hier te staan:
+
+3
+00:00:12,960 --> 00:00:18,760
+maar het is een Theropod, dus hij hoort hier thuis.
+
+4
+00:00:18,760 --> 00:00:27,600
+Welk deel van de vraag zou je veranderen
+om de beslisboom weer te laten werken?
+
