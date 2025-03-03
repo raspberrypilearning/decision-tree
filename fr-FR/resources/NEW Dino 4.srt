@@ -1,0 +1,22 @@
+1
+00:00:04,360 --> 00:00:09,600
+Un modèle d’apprentissage automatique qui utilise un arbre de décision 
+doit affiner à plusieurs reprises ses critères.
+
+2
+00:00:09,600 --> 00:00:12,880
+Plus les données sont nombreuses, plus le modèle devient précis.
+
+3
+00:00:12,880 --> 00:00:15,040
+Cela s'appelle l'entraînement.
+
+4
+00:00:15,040 --> 00:00:18,160
+Utilise ce que tu as appris pour dessiner 
+un arbre de décision qui te permet  
+
+5
+00:00:18,160 --> 00:00:29,720
+d'identifier correctement chaque catégorie de dinosaure.
+

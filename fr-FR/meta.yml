@@ -1,0 +1,22 @@
+---
+title: Arbre de décision des dinosaures
+hero_image: images/banner.png
+description: Crée un arbre de décision sur papier pour classer les dinosaures et découvre comment les modèles d'apprentissage automatique utilisent les arbres de décision pour classer les données
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - title: Ce que tu vas faire
+  - title: Classer les dinosaures
+    completion:
+    - engaged
+  - title: Modifier les critères
+  - title: Plus d'une question
+    completion:
+    - internal
+  - title: Arbre de décision
+    challenge: true
+  - title: Que peux-tu faire maintenant ?
+    completion:
+    - external
