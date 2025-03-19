@@ -1,0 +1,22 @@
+---
+title: Дерево рішень з динозаврами
+hero_image: images/banner.png
+description: Створи дерево рішень на папері, щоб класифікувати динозаврів, і дізнайся, як моделі машинного навчання використовують дерева рішень для класифікації даних
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - title: Що ти зробиш
+  - title: Класифікуй динозаврів
+    completion:
+    - engaged
+  - title: Зміни критерії
+  - title: Більше одного питання
+    completion:
+    - internal
+  - title: Дерево рішень
+    challenge: true
+  - title: Що ти тепер вмієш?
+    completion:
+    - external

@@ -1,0 +1,18 @@
+1
+00:00:03,800 --> 00:00:07,320
+Mas e se adicionarmos outro dinossauro?
+
+2
+00:00:07,320 --> 00:00:12,960
+Allosaurus é maior que 
+6 metros, então vai aqui:
+
+3
+00:00:12,960 --> 00:00:18,760
+mas é um Theropoda, então devia ser aqui.
+
+4
+00:00:18,760 --> 00:00:27,600
+Que parte da pergunta mudarias 
+para fazer com que a árvore de decisão funcione outra vez?
+

@@ -1,0 +1,22 @@
+---
+title: Dinosaurus beslisboom
+hero_image: images/banner.png
+description: Maak een beslisboom op papier om dinosaurussen in verschillende categorieën te verdelen en leer hoe machine learning-modellen beslisbomen gebruiken om gegevens onder te verdelen
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - title: Wat ga je maken
+  - title: Dinosaurussen in categorieën onderverdelen
+    completion:
+    - engaged
+  - title: Wijzig de criteria
+  - title: Meer dan één vraag
+    completion:
+    - internal
+  - title: Beslisboom
+    challenge: true
+  - title: Wat kun je verder nog doen?
+    completion:
+    - external

@@ -1,0 +1,22 @@
+1
+00:00:04,360 --> 00:00:09,600
+Een machine learning-model dat gebruik maakt van een beslisboom
+moet de gebruikte criteria steeds meer verfijnen.
+
+2
+00:00:09,600 --> 00:00:12,880
+Hoe meer gegevens er worden ingevoerd, hoe nauwkeuriger het model wordt.
+
+3
+00:00:12,880 --> 00:00:15,040
+Dit wordt training genoemd.
+
+4
+00:00:15,040 --> 00:00:18,160
+Gebruik wat je hebt geleerd om
+een beslisboom te tekenen waarmee je
+
+5
+00:00:18,160 --> 00:00:29,720
+elke categorie dinosaurussen correct kunt identificeren.
+
