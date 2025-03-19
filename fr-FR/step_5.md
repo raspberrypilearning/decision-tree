@@ -29,7 +29,7 @@ Voici un ensemble plus vaste de données sur les dinosaures :
 | Zéphyrosaure   | 1,8                             | Herbivore    | Amérique du Nord | 120                             | Ornithopode       |
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Pourquoi ne pas télécharger et imprimer ces [cartes de dinosaures] (resources/dinosaur_cards.pdf){:target="_blank"} et les utiliser pour t'aider à dessiner l'arbre de décision ?
+Pourquoi ne pas télécharger et imprimer ces [cartes de dinosaures](resources/dinosaur_cards.pdf){:target="_blank"} et les utiliser pour t'aider à dessiner l'arbre de décision ?
 </p>
 
 --- task ---
