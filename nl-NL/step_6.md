@@ -6,7 +6,7 @@ Er zijn nog veel meer machine learning- en AI-projecten in de [kunstmatige intel
 
 Dit project werd vertaald door vrijwilligers:
 
-iny van beuningen
+Iny van Beuningen
 Robert-Jan Kempenaar
 
 Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).

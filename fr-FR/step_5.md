@@ -53,7 +53,7 @@ title: Montrer la réponse
 
 Voici une solution possible, mais il existe de nombreux arbres valides que tu pourrais dessiner :
 
-! [Arbre de décision final avec les questions : Était-il moins long que de 26 m de long ? A-t-il vécu il y a moins de 227 millions d'années ? Était-il carnivore ?](images/final-tree.png)
+![Arbre de décision final avec les questions : Était-il moins long que de 26 m de long ? A-t-il vécu il y a moins de 227 millions d'années ? Était-il carnivore ?](images/final-tree.png)
 
 --- /collapse ---
 
