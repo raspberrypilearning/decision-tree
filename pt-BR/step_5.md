@@ -14,7 +14,7 @@ Here is a larger set of data about dinosaurs:
 
 (mya = million years ago)
 
-| Name            | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
+| Nome            | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
 | --------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
 | Allosaurus      | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
 | Archaeoceratops | 1.3           | Herbivorous | Asia          | 121                            | Ceratopsian    |
