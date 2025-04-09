@@ -1,4 +1,4 @@
-## What you will make
+## Lo que harás
 
 Some machine learning models use **decision trees** to classify data.
 
@@ -8,9 +8,9 @@ Create your own paper-based decision tree to classify dinosaurs, and learn about
 
 ## --- collapse ---
 
-## title: No YouTube? Download the video!
+## title: ¿No tienes YouTube? Download the video!
 
-You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/decision-tree-go){:target="_blank"}.
+Puedes descargar todos los vídeos de este proyecto, incluido el vídeo de arriba, [pinchando aquí](https://rpf.io/p/en/decision-tree-go){:target="_blank"}.
 
 \--- /collapse ---
 
