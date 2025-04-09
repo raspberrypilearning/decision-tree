@@ -8,7 +8,7 @@
 
 Let's add another dinosaur:
 
-| Name          | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
+| Nome          | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
 | ------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
 | Allosaurus    | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
 | Concavenator  | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
