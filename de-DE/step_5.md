@@ -1,4 +1,4 @@
-## Decision tree
+## Entscheidungsbaum
 
 \--- challenge ---
 
@@ -14,19 +14,19 @@ Here is a larger set of data about dinosaurs:
 
 (mya = million years ago)
 
-| Name            | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
-| --------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
-| Allosaurus      | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
-| Archaeoceratops | 1.3           | Herbivorous | Asia          | 121                            | Ceratopsian    |
-| Bambiraptor     | 1                             | Carnivorous | North America | 84                             | Theropod       |
-| Brachiosaurus   | 30                            | Herbivorous | North America | 155                            | Sauropod       |
-| Chindesaurus    | 4                             | Carnivorous | North America | 227                            | Early dinosaur |
-| Concavenator    | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
-| Diplodocus      | 26                            | Herbivorous | North America | 152                            | Sauropod       |
-| Herrerasaurus   | 3                             | Carnivorous | South America | 228                            | Early dinosaur |
-| Maiasaura       | 9                             | Herbivorous | North America | 80                             | Ornithopod     |
-| Parksosaurus    | 3                             | Herbivorous | North America | 76                             | Ornithopod     |
-| Zephyrosaurus   | 1.8           | Herbivorous | North America | 120                            | Ornithopod     |
+| Name            | Length (m) | Diet        | Continent   | Lived (mya) | Category       |
+| --------------- | ----------------------------- | ----------- | ----------- | ------------------------------ | -------------- |
+| Allosaurus      | 12                            | Carnivorous | Europa      | 152                            | Theropod       |
+| Archaeoceratops | 1,3                           | Herbivorous | Asien       | 121                            | Ceratopsian    |
+| Bambiraptor     | 1                             | Carnivorous | Nordamerika | 84                             | Theropod       |
+| Brachiosaurus   | 30                            | Herbivorous | Nordamerika | 155                            | Sauropod       |
+| Chindesaurus    | 4                             | Carnivorous | Nordamerika | 227                            | Early dinosaur |
+| Concavenator    | 6                             | Carnivorous | Europa      | 130                            | Theropod       |
+| Diplodocus      | 26                            | Herbivorous | Nordamerika | 152                            | Sauropod       |
+| Herrerasaurus   | 3                             | Carnivorous | Südamerika  | 228                            | Early dinosaur |
+| Maiasaura       | 9                             | Herbivorous | Nordamerika | 80                             | Ornithopod     |
+| Parksosaurus    | 3                             | Herbivorous | Nordamerika | 76                             | Ornithopod     |
+| Zephyrosaurus   | 1.8           | Herbivorous | Nordamerika | 120                            | Ornithopod     |
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 Why not download and print these [dinosaur cards](resources/dinosaur_cards.pdf){:target="_blank"} and use them to help you draw the decision tree?
