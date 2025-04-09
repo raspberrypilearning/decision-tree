@@ -8,11 +8,11 @@
 
 Let's add the data for another dinosaur.
 
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
-| ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Allosaurus   | 12                            | Carnivorous | Europe        | 152                            | Theropod |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
+| Name         | Length (m) | Diet        | Continent   | Lived (mya) | Category |
+| ------------ | ----------------------------- | ----------- | ----------- | ------------------------------ | -------- |
+| Allosaurus   | 12                            | Carnivorous | Europa      | 152                            | Theropod |
+| Concavenator | 6                             | Carnivorous | Europa      | 130                            | Theropod |
+| Diplodocus   | 26                            | Herbivorous | Nordamerika | 152                            | Sauropod |
 
 The question **"Was it longer than 6 metres?"** no longer helps you to separate the dinosaurs into the two categories, because the Allosaurus is a Theropod, but it was 12m long.
 
