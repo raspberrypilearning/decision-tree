@@ -7,7 +7,7 @@ copyedit: false
 last_tested: "2024-06-27"
 steps:
   - 
-    title: What you will make
+    title: Lo que harás
   - 
     title: Classify the dinosaurs
     completion:
@@ -22,6 +22,6 @@ steps:
     title: Decision tree
     challenge: true
   - 
-    title: What can you do now?
+    title: Mejora tu proyecto
     completion:
       - external
