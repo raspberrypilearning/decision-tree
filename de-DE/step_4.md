@@ -8,12 +8,12 @@
 
 Let's add another dinosaur:
 
-| Name          | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
-| ------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
-| Allosaurus    | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
-| Concavenator  | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
-| Diplodocus    | 26                            | Herbivorous | North America | 152                            | Sauropod       |
-| Herrerasaurus | 3                             | Carnivorous | South America | 228                            | Early dinosaur |
+| Name          | Length (m) | Diet        | Continent   | Lived (mya) | Category       |
+| ------------- | ----------------------------- | ----------- | ----------- | ------------------------------ | -------------- |
+| Allosaurus    | 12                            | Carnivorous | Europa      | 152                            | Theropod       |
+| Concavenator  | 6                             | Carnivorous | Europa      | 130                            | Theropod       |
+| Diplodocus    | 26                            | Herbivorous | Nordamerika | 152                            | Sauropod       |
+| Herrerasaurus | 3                             | Carnivorous | Südamerika  | 228                            | Early dinosaur |
 
 \--- task ---
 
