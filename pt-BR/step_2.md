@@ -14,7 +14,7 @@ Here are some facts about two different dinosaurs:
 
 (mya = million years ago)
 
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
+| Nome         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
 | ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
 | Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
 | Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
