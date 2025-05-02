@@ -19,7 +19,7 @@ Here is a larger set of data about dinosaurs:
 | Allosaurus      | 12                            | Carnivorous | Europa      | 152                            | Theropod       |
 | Archaeoceratops | 1,3                           | Herbivorous | Asien       | 121                            | Ceratopsian    |
 | Bambiraptor     | 1                             | Carnivorous | Nordamerika | 84                             | Theropod       |
-| Brachiosaurus   | 30                            | Herbivorous | Nordamerika | 155                            | Sauropod       |
+| Brachiosaurus   | 30                            | Herbivorous | Nordamerika | 155                            | Sauropod       |
 | Chindesaurus    | 4                             | Carnivorous | Nordamerika | 227                            | Early dinosaur |
 | Concavenator    | 6                             | Carnivorous | Europa      | 130                            | Theropod       |
 | Diplodocus      | 26                            | Herbivorous | Nordamerika | 152                            | Sauropod       |
