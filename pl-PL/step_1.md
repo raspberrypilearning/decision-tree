@@ -19,4 +19,4 @@ Możesz pobrać wszystkie filmy dotyczące tego projektu, w tym film powyżej [k
 Dane w tym projekcie pochodzą z Muzeum Historii Naturalnej. [(Dino Directory)] (https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"}.
 
 Ilustracje dinozaurów:
-Allozaur, Brachiozaur - Pixabay. Archeoceratops – Nobu Tamura (CC BY 3.0). Bambiraptor - Conty (CC BY-SA 4.0). Concavenator, Maiasaura - UnexpectedDinoLesson (CC BY-SA 4.0). Concavenator, Maiasaura - UnexpectedDinoLesson (CC BY-SA 4.0). Diplodok, Herrerazaur – Fred Wierum (CC BY-SA 4.0). Parksozaur - Steveoc 86 (CC BY-SA 3.0). Zefirozaur - Emily Willoughby (CC BY-SA 3.0).
+Allozaur, Brachiozaur - Pixabay. Archeoceratops – Nobu Tamura (CC BY 3.0). Bambiraptor - Conty (CC BY-SA 4.0). Czindezaur - Jeff Martz (Domena publiczna). Concavenator, Majazaura - UnexpectedDinoLesson (CC BY-SA 4.0). Diplodok, Herrerazaur – Fred Wierum (CC BY-SA 4.0). Parksozaur - Steveoc 86 (CC BY-SA 3.0). Zefirozaur - Emily Willoughby (CC BY-SA 3.0).
