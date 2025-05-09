@@ -1,22 +1,22 @@
 1
 00:00:04,360 --> 00:00:09,600
-A machine learning model that uses a decision 
-tree must repeatedly refine its criteria.
+Model uczenia maszynowego wykorzystujący drzewo decyzyjne 
+musi wielokrotnie udoskonalać swoje kryteria.
 
 2
 00:00:09,600 --> 00:00:12,880
-The more data input, the more accurate it becomes.
+Im więcej danych zostanie wprowadzonych, tym będzie on dokładniejszy.
 
 3
 00:00:12,880 --> 00:00:15,040
-This is called training.
+To jest nazywane treningiem.
 
 4
 00:00:15,040 --> 00:00:18,160
-Use what you have learned to draw 
-a decision tree that allows you  
+Wykorzystaj zdobytą wiedzę, aby narysować 
+drzewo decyzyjne, które pozwoli Ci  
 
 5
 00:00:18,160 --> 00:00:29,720
-to correctly identify each category of dinosaur.
+poprawnie zidentyfikować każdą kategorię dinozaurów.
 
