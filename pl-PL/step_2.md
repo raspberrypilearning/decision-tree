@@ -7,23 +7,23 @@
 </html>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-**Aim of the project:** Each dinosaur has a <span style="color: #0faeb0">**category**</span>. A category describes a group of dinosaurs with similar characteristics. You need to tell which category a dinosaur is in, using the facts you have about the dinosaur.
+**Cel projektu**: Każdy dinozaur ma <span style="color: #0faeb0">**kategorię**</span>. Kategoria opisuje grupę dinozaurów o podobnych cechach. Musisz określić, do której kategorii należy dany dinozaur, wykorzystując fakty, jakie o nim posiadasz.
 </p>
 
-Here are some facts about two different dinosaurs:
+Oto kilka faktów na temat dwóch różnych dinozaurów:
 
-(mya = million years ago)
+(mlt = milion lat temu)
 
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
-| ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
+| Nazwa        | Długość (m) | Dieta        | Kontynent        | Żył (mlt) | Kategoria |
+| ------------ | ------------------------------ | ------------ | ---------------- | ---------------------------- | --------- |
+| Concavenator | 6                              | Mięsożerny   | Europa           | 130                          | Teropod   |
+| Diplodok     | 26                             | Roślinożerny | Ameryka Północna | 152                          | Zauropod  |
 
-You could separate this data into the two <span style="color: #0faeb0">**categories**</span> of dinosaur by asking this question:
+Możesz rozdzielić te dane na dwie <span style="color: #0faeb0">**kategorie**</span> dinozaurów, zadając następujące pytanie:
 
-![Image of a decision tree with the question 'Was it longer than 6 metres?'](images/decision1.png)
+![Grafika drzewa decyzyjnego z pytaniem "Czy był dłuższy niż 6 metrów?"](images/decision1.png)
 
-If the answer is **yes**, the dinosaur must be a Sauropod, and if it is **no** then it must be a Theropod.
+Jeśli odpowiedź brzmi **tak**, dinozaur musi być zauropodem, a jeśli **nie**, musi być teropodem.
 
 \--- task ---
 
@@ -31,12 +31,12 @@ Pomyśl jakie inne pytanie mógłbyś zadać, które pozwoliłoby Ci rozróżni�
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Pokaż mi odpowiedź
 
-- Did it live in North America?
-- Was it carnivorous?
-- Does its name begin with 'C'?
-- Did it live more than 130 million years ago?
+- Czy żył w Ameryce Północnej?
+- Czy był mięsożerny?
+- Czy jego nazwa zaczyna się na literę "C"?
+- Czy żył ponad 130 milionów lat temu?
 
 \--- /collapse ---
 
