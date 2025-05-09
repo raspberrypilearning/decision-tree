@@ -1,3 +1,3 @@
 ## Co możesz teraz zrobić?
 
-There are lots of other machine learning and AI projects in the [artificial intelligence](https://projects.raspberrypi.org/en/pathways/ai-toolkit) toolkit.
+W zestawie narzędzi [sztucznej inteligencji](https://projects.raspberrypi.org/en/pathways/ai-toolkit) znajduje się wiele innych projektów z zakresu uczenia maszynowego i sztucznej inteligencji.
