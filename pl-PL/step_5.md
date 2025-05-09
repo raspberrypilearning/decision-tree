@@ -8,51 +8,51 @@
   </div>
 </html>
 
-A machine learning model that uses a decision tree must repeatedly refine its criteria. The more data input, the more accurate it becomes — this is called **training**. You have only used a few criteria, but a machine learning model might use many **thousands** of values.
+Model uczenia maszynowego wykorzystujący drzewo decyzyjne musi wielokrotnie udoskonalać swoje kryteria. Im więcej danych zostanie wprowadzonych, tym bardziej dokładne staną się wyniki — nazywa się to **treningiem**. Użyłeś tylko kilku kryteriów, ale model uczenia maszynowego może wykorzystywać wiele **tysięcy** wartości.
 
-Here is a larger set of data about dinosaurs:
+Oto większy zestaw danych o dinozaurach:
 
-(mya = million years ago)
+(mlt = milion lat temu)
 
-| Name            | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
-| --------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
-| Allosaurus      | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
-| Archaeoceratops | 1.3           | Herbivorous | Asia          | 121                            | Ceratopsian    |
-| Bambiraptor     | 1                             | Carnivorous | North America | 84                             | Theropod       |
-| Brachiosaurus   | 30                            | Herbivorous | North America | 155                            | Sauropod       |
-| Chindesaurus    | 4                             | Carnivorous | North America | 227                            | Early dinosaur |
-| Concavenator    | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
-| Diplodocus      | 26                            | Herbivorous | North America | 152                            | Sauropod       |
-| Herrerasaurus   | 3                             | Carnivorous | South America | 228                            | Early dinosaur |
-| Maiasaura       | 9                             | Herbivorous | North America | 80                             | Ornithopod     |
-| Parksosaurus    | 3                             | Herbivorous | North America | 76                             | Ornithopod     |
-| Zephyrosaurus   | 1.8           | Herbivorous | North America | 120                            | Ornithopod     |
+| Nazwa          | Długość (m) | Dieta        | Kontynent          | Żył (mlt) | Kategoria        |
+| -------------- | ------------------------------ | ------------ | ------------------ | ---------------------------- | ---------------- |
+| Allozaur       | 12                             | Mięsożerny   | Europa             | 152                          | Teropod          |
+| Archeoceratops | 1,3                            | Roślinożerny | Azja               | 121                          | Ceratops         |
+| Bambiraptor    | 1                              | Mięsożerny   | Ameryka Północna   | 84                           | Teropod          |
+| Brachiozaur    | 30                             | Roślinożerny | Ameryka Północna   | 155                          | Zauropod         |
+| Czindezaur     | 4                              | Mięsożerny   | Ameryka Północna   | 227                          | Dinozaur wczesny |
+| Concavenator   | 6                              | Mięsożerny   | Europa             | 130                          | Teropod          |
+| Diplodok       | 26                             | Roślinożerny | Ameryka Północna   | 152                          | Zauropod         |
+| Herrerazaur    | 3                              | Mięsożerny   | Ameryka Południowa | 228                          | Dinozaur wczesny |
+| Majazaura      | 9                              | Roślinożerny | Ameryka Północna   | 80                           | Ornitopod        |
+| Parksozaur     | 3                              | Roślinożerny | Ameryka Północna   | 76                           | Ornitopod        |
+| Zefirozaur     | 1.8            | Roślinożerny | Ameryka Północna   | 120                          | Ornitopod        |
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Why not download and print these [dinosaur cards](resources/dinosaur_cards.pdf){:target="_blank"} and use them to help you draw the decision tree?
+Może pobierzesz i wydrukujesz te [karty z dinozaurami](resources/dinosaur_cards.pdf){:target="_blank"} aby pomóc sobie w tworzeniu drzewa decyzyjnego?
 </p>
 
 \--- task ---
 
-Draw a decision tree that allows you to correctly identify each <span style="color: #0faeb0">**category**</span> of dinosaur.
+Narysuj drzewo decyzyjne, które pozwoli Ci poprawnie zidentyfikować każdą <span style="color: #0faeb0">**kategorię**</span> dinozaura.
 
-**Tip:** Each question should split the data so that one category of dinosaur is fully identified.
+**Wskazówka:** Każde pytanie powinno podzielić dane tak, aby w pełni zidentyfikować jedną kategorię dinozaurów.
 
 \--- /task ---
 
 \--- task ---
 
-[Choose another dinosaur](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} and use your decision tree to identify which category it is in. Was your decision tree correct?
+[Wybierz innego dinozaura](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} i użyj drzewa decyzyjnego, aby określić, do której kategorii należy. Czy Twoje drzewo decyzyjne było poprawne?
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Pokaż mi odpowiedź
 
-Here is one possible solution, but there are many valid trees you could draw:
+Oto jedno z możliwych rozwiązań, ale można narysować wiele innych poprawnych drzew:
 
-![Final decision tree with questions: Was it less than 26m long? Did it live less than 227m years ago? Was it carnivorous?](images/final-tree.png)
+![Ostateczne drzewo decyzyjne z pytaniami: Czy miał mniej niż 26 m długości? Czy żył mniej niż 227 milionów lat temu? Czy był mięsożerny?](images/final-tree.png)
 
 \--- /collapse ---
 
