@@ -27,7 +27,7 @@ If the answer is **yes**, the dinosaur must be a Sauropod, and if it is **no** t
 
 \--- task ---
 
-Think of a different question you could ask to separate out these two categories of dinosaur.
+Pomyśl jakie inne pytanie mógłbyś zadać, które pozwoliłoby Ci rozróżnić te dwie kategorie dinozaurów.
 
 ## --- collapse ---
 
