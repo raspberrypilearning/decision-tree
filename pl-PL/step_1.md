@@ -1,22 +1,22 @@
-## What you will make
+## Co stworzysz
 
-Some machine learning models use **decision trees** to classify data.
+Niektóre modele uczenia maszynowego wykorzystują **drzewa decyzyjne** do klasyfikowania danych.
 
-Create your own paper-based decision tree to classify dinosaurs, and learn about how a model is trained.
+Stwórz na papierze swoje własne drzewo decyzyjne do klasyfikacji dinozaurów i dowiedz się jak wygląda trenowanie modelu.
 
-![Eleven 'cards' with dinosaur pictures and facts about the dinosaurs](images/whatyouwillmake.png)
+![Jedenaście 'kart' ze zdjęciami dinozaurów i faktami o dinozaurach](images/whatyouwillmake.png)
 
 ## --- collapse ---
 
-## title: No YouTube? Download the video!
+## title: Nie możesz skorzystać z YouTube? Pobierz filmy!
 
-You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/decision-tree-go){:target="_blank"}.
+Możesz pobrać wszystkie filmy dotyczące tego projektu, w tym film powyżej [klikając tutaj](https://rpf.io/p/en/decision-tree-go){:target="_blank"}.
 
 \--- /collapse ---
 
-### Data
+### Dane
 
-The data in this project is from the Natural History Museum's [Dino Directory](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"}.
+Dane w tym projekcie pochodzą z Muzeum Historii Naturalnej. [(Dino Directory)] (https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"}.
 
-Dinosaur illustrations:
-Allosaurus, Brachiosaurus - Pixabay. Archaeoceratops - Nobu Tamura (CC BY 3.0). Bambiraptor - Conty (CC BY-SA 4.0). Chindesaurus - Jeff Martz (Public domain). Concavenator, Maiasaura - UnexpectedDinoLesson (CC BY-SA 4.0). Diplodocus, Herrerasaurus - Fred Wierum (CC BY-SA 4.0). Parksosaurus - Steveoc 86 (CC BY-SA 3.0). Zephyrosaurus - Emily Willoughby (CC BY-SA 3.0).
+Ilustracje dinozaurów:
+Allozaur, Brachiozaur - Pixabay. Archeoceratops – Nobu Tamura (CC BY 3.0). Bambiraptor - Conty (CC BY-SA 4.0). Concavenator, Maiasaura - UnexpectedDinoLesson (CC BY-SA 4.0). Concavenator, Maiasaura - UnexpectedDinoLesson (CC BY-SA 4.0). Diplodok, Herrerazaur – Fred Wierum (CC BY-SA 4.0). Parksozaur - Steveoc 86 (CC BY-SA 3.0). Zefirozaur - Emily Willoughby (CC BY-SA 3.0).
