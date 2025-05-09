@@ -1,4 +1,4 @@
-## Decision tree
+## Drzewo decyzyjne
 
 \--- challenge ---
 
