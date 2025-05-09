@@ -12,7 +12,7 @@ a ten jest zauropodem.
 
 4
 00:00:12,998 --> 00:00:16,097
-Aby sklasyfikować te dwa dinozaury, można zadać pytanie:
+Aby skategoryzować te dwa dinozaury, można zadać pytanie:
 
 5
 00:00:16,164 --> 00:00:18,399
@@ -20,7 +20,7 @@ Aby sklasyfikować te dwa dinozaury, można zadać pytanie:
 
 6
 00:00:20,396 --> 00:00:24,762
-Biorąc pod uwagę tylko te dwa dinozaury, jeśli miał więcej niż 6 metrów, jest to zauropod
+Biorąc pod uwagę tylko te dwa dinozaury, jeśli miał więcej niż 6 metrów długości, jest zauropodem
 
 7
 00:00:24,762 --> 00:00:27,195
