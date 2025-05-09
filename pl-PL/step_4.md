@@ -1,4 +1,4 @@
-## More than one question
+## Więcej niż jedno pytanie
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
