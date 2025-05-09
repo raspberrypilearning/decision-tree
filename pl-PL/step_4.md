@@ -6,50 +6,50 @@
   </div>
 </html>
 
-Let's add another dinosaur:
+Dodajmy jeszcze jednego dinozaura:
 
-| Name          | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
-| ------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
-| Allosaurus    | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
-| Concavenator  | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
-| Diplodocus    | 26                            | Herbivorous | North America | 152                            | Sauropod       |
-| Herrerasaurus | 3                             | Carnivorous | South America | 228                            | Early dinosaur |
+| Nazwa        | Długość (m) | Dieta        | Kontynent          | Żył (mlt) | Kategoria        |
+| ------------ | ------------------------------ | ------------ | ------------------ | ---------------------------- | ---------------- |
+| Allozaur     | 12                             | Mięsożerny   | Europa             | 152                          | Teropod          |
+| Concavenator | 6                              | Mięsożerny   | Europa             | 130                          | Teropod          |
+| Diplodok     | 26                             | Roślinożerny | Ameryka Północna   | 152                          | Zauropod         |
+| Herrerazaur  | 3                              | Mięsożerny   | Ameryka Południowa | 228                          | Dinozaur wczesny |
 
 \--- task ---
 
-Is it possible for you to split the dinosaurs into categories using the question **"Did it live more than 130 million years ago?"**?
+Czy możesz podzielić dinozaury na kategorie, odpowiadając na pytanie **"Czy żyły ponad 130 milionów lat temu?"**?
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Pokaż mi odpowiedź
 
-No, because there are now three dinosaurs that lived more than 130 million years ago, but they are in different categories.
+Nie, ponieważ obecnie istnieją trzy dinozaury, które żyły ponad 130 milionów lat temu, ale należą one do różnych kategorii.
 
-Even if you changed the criteria to **more than 152 million years ago**, you still can't separate them into three categories.
+Nawet jeśli zmienisz kryteria na **ponad 152 miliony lat temu**, nadal nie będziesz mógł podzielić ich na trzy kategorie.
 
 \--- /collapse ---
 
 \--- /task ---
 
-To put dinosaurs in three categories, you need to add another question.
+Aby podzielić dinozaury na trzy kategorie, należy dodać kolejne pytanie.
 
 \--- task ---
 
-Choose a **different** piece of data from the table; for example, length or diet.
+Wybierz **inny** element danych z tabeli, na przykład długość lub dietę.
 
-What question could you write using this data in the blank space to correctly categorise the remaining dinosaurs?
+Jakie pytanie mógłbyś wpisać w pustej przestrzeni, używając tych danych, aby prawidłowo skategoryzować pozostałe dinozaury?
 
-![A decision tree with the first question 'Did it live more than 152 million years ago?' with yes = Early dinosaur and No = a blank space for a second question.](images/decision2.png)
+![Drzewo decyzyjne z pierwszym pytaniem „Czy żył ponad 152 miliony lat temu?”, gdzie tak = dinozaur wczesny, a nie = puste miejsce na drugie pytanie.](images/decision2.png)
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Pokaż mi odpowiedź
 
-Any of the following questions would give the correct category for every dinosaur:
+Każde z poniższych pytań pozwoliłoby wskazać poprawną kategorię dla każdego dinozaura:
 
-- Was it shorter than 26 metres?
-- Was it a carnivore?
-- Did it live in Europe?
+- Czy miał mniej niż 26 metrów długości?
+- Czy był mięsożerny?
+- Czy żył w Europie?
 
 \--- /collapse ---
 
