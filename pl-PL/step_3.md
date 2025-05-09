@@ -6,25 +6,25 @@
   </div>
 </html>
 
-Let's add the data for another dinosaur.
+Dodajmy dane dotyczące kolejnego dinozaura.
 
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
-| ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Allosaurus   | 12                            | Carnivorous | Europe        | 152                            | Theropod |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
+| Nazwa        | Długość (m) | Dieta        | Kontynent        | Żył (mlt) | Kategoria |
+| ------------ | ------------------------------ | ------------ | ---------------- | ---------------------------- | --------- |
+| Allozaur     | 12                             | Mięsożerny   | Europa           | 152                          | Teropod   |
+| Concavenator | 6                              | Mięsożerny   | Europa           | 130                          | Teropod   |
+| Diplodok     | 26                             | Roślinożerny | Ameryka Północna | 152                          | Zauropod  |
 
-The question **"Was it longer than 6 metres?"** no longer helps you to separate the dinosaurs into the two categories, because the Allosaurus is a Theropod, but it was 12m long.
+Pytanie **"Czy był dłuższy niż 6 metrów?"** nie pomoże już w podziale dinozaurów na dwie kategorie, ponieważ allozaur jest teropodem, a miał 12 metrów długości.
 
 \--- task ---
 
-What part of the question would you change to make it work again?
+Którą część pytania trzeba zmienić, aby model znów działał?
 
 ## --- collapse ---
 
-## title: Show me the answer
+## title: Pokaż mi odpowiedź
 
-Change the size and ask "Was it longer than **12** metres?"
+Zmień rozmiar i zapytaj: "Czy był dłuższy niż **12** metrów?"
 
 \--- /collapse ---
 
