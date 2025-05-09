@@ -1,27 +1,27 @@
-title: Dinosaur decision tree
+title: Drzewo decyzyjne dinozaurów
 hero_image: images/banner.png
-description: Create a paper-based decision tree to classify dinosaurs, and learn how machine learning models use decision trees to classify data
+description: Stwórz na papierze drzewo decyzyjne do klasyfikacji dinozaurów i dowiedz się, jak modele uczenia maszynowego wykorzystują drzewa decyzyjne do klasyfikacji danych
 version: 1
 listed: true
 copyedit: false
 last_tested: "2024-06-27"
 steps:
   - 
-    title: What you will make
+    title: Co stworzysz
   - 
-    title: Classify the dinosaurs
+    title: Sklasyfikuj dinozaury
     completion:
       - engaged
   - 
-    title: Modify the criteria
+    title: Dostosuj kryteria
   - 
-    title: More than one question
+    title: Więcej niż jedno pytanie
     completion:
       - internal
   - 
-    title: Decision tree
+    title: Drzewo decyzyjne
     challenge: true
   - 
-    title: What can you do now?
+    title: Co możesz teraz zrobić?
     completion:
       - external
