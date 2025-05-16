@@ -1,18 +1,18 @@
 1
 00:00:03,800 --> 00:00:07,320
-But what if we add another dinosaur?
+¿Pero qué pasa si añadimos otro dinosaurio?
 
 2
 00:00:07,320 --> 00:00:12,960
-Allosaurus is longer than 
-6 metres, so it goes here:
+El Allosaurus mide más de
+6 metros, por eso va aquí:
 
 3
 00:00:12,960 --> 00:00:18,760
-but it's a Theropod, so it should go here.
+pero es un terópodo, por eso debería ir aquí.
 
 4
 00:00:18,760 --> 00:00:27,600
-What part of the question would you change 
-to make the decision tree work again?
+¿Qué parte de la pregunta cambiarías
+para que el árbol de decisiones funcione nuevamente?
 
