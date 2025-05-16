@@ -1,22 +1,21 @@
 1
 00:00:04,360 --> 00:00:09,600
-A machine learning model that uses a decision 
-tree must repeatedly refine its criteria.
+Un modelo de aprendizaje automático que utiliza un árbol de decisiones debe refinar repetidamente sus criterios.
 
 2
 00:00:09,600 --> 00:00:12,880
-The more data input, the more accurate it becomes.
+Cuanto más datos se introduzcan, más precisos serán.
 
 3
 00:00:12,880 --> 00:00:15,040
-This is called training.
+Esto se llama entrenamiento.
 
 4
 00:00:15,040 --> 00:00:18,160
-Use what you have learned to draw 
-a decision tree that allows you  
+Usa lo que has aprendido para dibujar
+un árbol de decisiones que te permita
 
 5
 00:00:18,160 --> 00:00:29,720
-to correctly identify each category of dinosaur.
+identificar correctamente cada categoría de dinosaurio.
 
