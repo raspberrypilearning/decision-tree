@@ -1,4 +1,4 @@
-## Modify the criteria
+## Modifica los criterios
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,25 +6,25 @@
   </div>
 </html>
 
-Let's add the data for another dinosaur.
+Agreguemos los datos de otro dinosaurio.
 
 | Nombre       | Longitud (m) | Dieta     | Continente        | Vivió (mya) | Categoría |
 | ------------ | ------------------------------- | --------- | ----------------- | ------------------------------ | --------- |
-| Allosaurus   | 12                              | Carnívoro | Europa            | 152                            | Theropod  |
-| Concavenador | 6                               | Carnívoro | Europa            | 130                            | Theropod  |
+| Allosaurio   | 12                              | Carnívoro | Europa            | 152                            | Terópodo  |
+| Concavenador | 6                               | Carnívoro | Europa            | 130                            | Terópodo  |
 | Diplodocus   | 26                              | Herbívoro | América del norte | 152                            | Saurópodo |
 
-The question **"Was it longer than 6 metres?"** no longer helps you to separate the dinosaurs into the two categories, because the Allosaurus is a Theropod, but it was 12m long.
+La pregunta **"¿Medía más de 6 metros?"** ya no sirve para separar los dinosaurios en dos categorías, porque el Allosaurus es un terópodo, pero medía 12 metros de largo.
 
 \--- task ---
 
-What part of the question would you change to make it work again?
+¿Qué parte de la pregunta cambiarías para que funcionara nuevamente?
 
 ## --- collapse ---
 
 ## Título: Muéstrame la respuesta
 
-Change the size and ask "Was it longer than **12** metres?"
+Cambia el tamaño y pregunta "¿Era más largo que **12** metros?"
 
 \--- /collapse ---
 
