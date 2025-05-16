@@ -8,11 +8,11 @@
 
 Let's add the data for another dinosaur.
 
-| Nombre       | Length (m) | Diet        | Continent     | Lived (mya) | Category |
-| ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Allosaurus   | 12                            | Carnivorous | Europe        | 152                            | Theropod |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
+| Nombre       | Longitud (m) | Dieta     | Continente        | Vivió (mya) | Categoría |
+| ------------ | ------------------------------- | --------- | ----------------- | ------------------------------ | --------- |
+| Allosaurus   | 12                              | Carnívoro | Europa            | 152                            | Theropod  |
+| Concavenador | 6                               | Carnívoro | Europa            | 130                            | Theropod  |
+| Diplodocus   | 26                              | Herbívoro | América del norte | 152                            | Saurópodo |
 
 The question **"Was it longer than 6 metres?"** no longer helps you to separate the dinosaurs into the two categories, because the Allosaurus is a Theropod, but it was 12m long.
 
@@ -22,7 +22,7 @@ What part of the question would you change to make it work again?
 
 ## --- collapse ---
 
-## title: Show me the answer
+## Título: Muéstrame la respuesta
 
 Change the size and ask "Was it longer than **12** metres?"
 
