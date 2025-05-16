@@ -1,4 +1,4 @@
-## More than one question
+## Más de una pregunta
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,50 +6,50 @@
   </div>
 </html>
 
-Let's add another dinosaur:
+Agreguemos otro dinosaurio:
 
-| Nombre        | Longitud (m) | Dieta     | Continente        | Vivió (mya) | Categoría      |
-| ------------- | ------------------------------- | --------- | ----------------- | ------------------------------ | -------------- |
-| Allosaurus    | 12                              | Carnívoro | Europa            | 152                            | Theropod       |
-| Concavenador  | 6                               | Carnívoro | Europa            | 130                            | Theropod       |
-| Diplodocus    | 26                              | Herbívoro | América del norte | 152                            | Saurópodo      |
-| Herrerasaurus | 3                               | Carnívoro | South America     | 228                            | Early dinosaur |
+| Nombre        | Longitud (m) | Dieta     | Continente        | Vivió (mya) | Categoría            |
+| ------------- | ------------------------------- | --------- | ----------------- | ------------------------------ | -------------------- |
+| Allosaurio    | 12                              | Carnívoro | Europa            | 152                            | Terópodo             |
+| Concavenador  | 6                               | Carnívoro | Europa            | 130                            | Terópodo             |
+| Diplodocus    | 26                              | Herbívoro | América del norte | 152                            | Saurópodo            |
+| Herrerasaurus | 3                               | Carnívoro | América del sur   | 228                            | Dinosaurio primitivo |
 
 \--- task ---
 
-Is it possible for you to split the dinosaurs into categories using the question **"Did it live more than 130 million years ago?"**?
+¿Es posible dividir a los dinosaurios en categorías utilizando la pregunta **"¿Vivió hace más de 130 millones de años?"**?
 
 ## --- collapse ---
 
 ## Título: Muéstrame la respuesta
 
-No, because there are now three dinosaurs that lived more than 130 million years ago, but they are in different categories.
+No, porque ahora hay tres dinosaurios que vivieron hace más de 130 millones de años, pero están en categorías diferentes.
 
-Even if you changed the criteria to **more than 152 million years ago**, you still can't separate them into three categories.
+Incluso si cambiaras el criterio a **hace más de 152 millones de años**, aún no podrías separarlos en tres categorías.
 
 \--- /collapse ---
 
 \--- /task ---
 
-To put dinosaurs in three categories, you need to add another question.
+Para poner a los dinosaurios en tres categorías, necesitas agregar otra pregunta.
 
 \--- task ---
 
-Choose a **different** piece of data from the table; for example, length or diet.
+Elije un dato **diferente** de la tabla; por ejemplo, longitud o dieta.
 
-What question could you write using this data in the blank space to correctly categorise the remaining dinosaurs?
+¿Qué pregunta podrías escribir usando estos datos en el espacio en blanco para categorizar correctamente a los dinosaurios restantes?
 
-![A decision tree with the first question 'Did it live more than 152 million years ago?' with yes = Early dinosaur and No = a blank space for a second question.](images/decision2.png)
+![Un árbol de decisión con la primera pregunta '¿Vivió hace más de 152 millones de años?' con sí = Dinosaurio primitivo y No = un espacio en blanco para una segunda pregunta.](images/decision2.png)
 
 ## --- collapse ---
 
 ## Título: Muéstrame la respuesta
 
-Any of the following questions would give the correct category for every dinosaur:
+Cualquiera de las siguientes preguntas daría la categoría correcta para cada dinosaurio:
 
-- Was it shorter than 26 metres?
-- Was it a carnivore?
-- Did it live in Europe?
+- ¿Era más corto que 26 metros?
+- ¿Era un carnívoro?
+- ¿Vivió en Europa?
 
 \--- /collapse ---
 
