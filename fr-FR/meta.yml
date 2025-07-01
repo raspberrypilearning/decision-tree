@@ -17,6 +17,5 @@ steps:
     - internal
   - title: Arbre de décision
     challenge: true
-  - title: Que peux-tu faire maintenant ?
     completion:
     - external
