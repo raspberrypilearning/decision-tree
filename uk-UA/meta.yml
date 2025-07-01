@@ -17,6 +17,5 @@ steps:
     - internal
   - title: Дерево рішень
     challenge: true
-  - title: Що ти тепер вмієш?
     completion:
     - external

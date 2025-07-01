@@ -17,6 +17,5 @@ steps:
     - internal
   - title: Árvore de decisão
     challenge: true
-  - title: O que se segue?
     completion:
     - external
