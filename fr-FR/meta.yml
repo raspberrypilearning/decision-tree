@@ -10,12 +10,12 @@ steps:
   - title: Ce que tu vas faire
   - title: Classer les dinosaures
     completion:
-    - engaged
+      - engaged
   - title: Modifier les critères
   - title: Plus d'une question
     completion:
-    - internal
+      - internal
   - title: Arbre de décision
     challenge: true
     completion:
-    - external
+      - external

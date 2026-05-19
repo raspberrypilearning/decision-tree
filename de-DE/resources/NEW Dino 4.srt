@@ -1,0 +1,22 @@
+1
+00:00:04,360 --> 00:00:09,600
+Ein Künstliches Intelligenz-Modell, das einen Entscheidungsbaum
+verwendet, muss seine Kriterien wiederholt verfeinern.
+
+2
+00:00:09,600 --> 00:00:12,880
+Je mehr Daten eingegeben werden, desto genauer wird es.
+
+3
+00:00:12,880 --> 00:00:15,040
+Diese heißen Trainingsdaten.
+
+4
+00:00:15,040 --> 00:00:18,160
+Verwende dein neues Wissen, um
+einen Entscheidungsbaum zu zeichnen, der es dir ermöglicht
+
+5
+00:00:18,160 --> 00:00:29,720
+Jede Dinosaurierkategorie richtig zu identifizieren.
+
