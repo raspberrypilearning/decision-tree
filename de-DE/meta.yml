@@ -1,3 +1,4 @@
+---
 title: Dinosaurier-Entscheidungsbaum
 hero_image: images/banner.png
 description: Erstelle einen papierbasierten Entscheidungsbaum zur Kategorisierung von Dinosauriern und lerne wie Künstliche Intelligenz-Modelle Entscheidungsbäume zur Kategorisierung von Daten verwenden.
@@ -6,22 +7,16 @@ listed: true
 copyedit: false
 last_tested: "2024-06-27"
 steps:
-  - 
-    title: Was du machen wirst
-  - 
-    title: Kategorisiere die Dinosaurier
+  - title: Was du machen wirst
+  - title: Kategorisiere die Dinosaurier
     completion:
       - engaged
-  - 
-    title: Ändere die Kategorien.
-  - 
-    title: Mehrere Fragen
+  - title: Ändere die Kategorien.
+  - title: Mehrere Fragen
     completion:
       - internal
-  - 
-    title: Entscheidungsbaum
+  - title: Entscheidungsbaum
     challenge: true
-  - 
-    title: Wie geht es weiter?
+  - title: Wie geht es weiter?
     completion:
       - external

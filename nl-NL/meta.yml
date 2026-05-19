@@ -10,12 +10,12 @@ steps:
   - title: Wat ga je maken
   - title: Dinosaurussen in categorieën onderverdelen
     completion:
-    - engaged
+      - engaged
   - title: Wijzig de criteria
   - title: Meer dan één vraag
     completion:
-    - internal
+      - internal
   - title: Beslisboom
     challenge: true
     completion:
-    - external
+      - external

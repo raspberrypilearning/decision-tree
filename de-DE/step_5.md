@@ -1,6 +1,6 @@
 ## Entscheidungsbaum
 
-\--- challenge ---
+--- challenge ---
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -32,28 +32,29 @@ Hier ist ein größerer Datensatz über Dinosaurier:
 Lade diese [Dinosaurierkarten](resources/dinosaur_cards.pdf){:target="_blank"} herunter, drucke sie aus und verwende sie zum Zeichnen des Entscheidungsbaums.
 </p>
 
-\--- task ---
+--- task ---
 
 Zeichne einen Entscheidungsbaum, der es dir ermöglicht, jede <span style="color: #0faeb0">**Kategorie**</span> von Dinosauriern richtig zu identifizieren.
 
 **Tipp:** Jede Frage sollte die Daten so aufteilen, dass eine Dinosaurierkategorie vollständig identifiziert wird.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 [Wählen einen anderen Dinosaurier](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} und verwenden deinen Entscheidungsbaum, um zu ermitteln, in welche Kategorie er fällt. War dein Entscheidungsbaum richtig?
 
-\--- /task ---
+--- /task ---
 
-## --- collapse ---
-
-## title: Zeige mir die Antwort
+--- collapse ---
+---
+title: Zeige mir die Antwort
+---
 
 Hier ist eine mögliche Lösung, aber es gibt viele gültige Bäume, die du zeichnen kannst:
 
 ![Endgültiger Entscheidungsbaum mit der Frage: War er weniger als 26 m lang? Lebte er vor weniger als 227 Millionen Jahren? War er ein Fleischfresser?](images/final-tree.png)
 
-\--- /collapse ---
+--- /collapse ---
 
-\--- /challenge ---
+--- /challenge ---

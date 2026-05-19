@@ -16,16 +16,17 @@ Lass uns Daten für einen weiteren Dinosaurier hinzufügen.
 
 Die Frage „War er länger als 6 Meter?“ hilft nicht mehr dabei, die Dinosaurier in die beiden Kategorien einzuteilen, denn der Allosaurus ist zwar ein Theropode, war aber 12 Meter lang.
 
-\--- task ---
+--- task ---
 
 Welchen Teil der Frage würdest du ändern, damit es wieder funktioniert?
 
-## --- collapse ---
-
-## title: Zeige mir die Antwort
+--- collapse ---
+---
+title: Zeige mir die Antwort
+---
 
 Ändere die Größe und frage: „War er länger als **12** Meter?“
 
-\--- /collapse ---
+--- /collapse ---
 
-\--- /task ---
+--- /task ---

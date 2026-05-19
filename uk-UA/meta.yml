@@ -10,12 +10,12 @@ steps:
   - title: Що ти зробиш
   - title: Класифікуй динозаврів
     completion:
-    - engaged
+      - engaged
   - title: Зміни критерії
   - title: Більше одного питання
     completion:
-    - internal
+      - internal
   - title: Дерево рішень
     challenge: true
     completion:
-    - external
+      - external

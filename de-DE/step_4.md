@@ -15,25 +15,26 @@ Lass uns einen weiteren Dinosaurier hinzufügen
 | Diplodocus    | 26                           | Pflanzenfresser | Nordamerika | 152                                 | Sauropod           |
 | Herrerasaurus | 3                            | Fleischfresser  | Südamerika  | 228                                 | Früher Dinosaurier |
 
-\--- task ---
+--- task ---
 
 Ist es  möglich, die Dinosaurier mithilfe der Frage **"Hat er vor mehr als 130 Millionen Jahren gelebt?"** in Kategorien einzuteilen?
 
-## --- collapse ---
-
-## title: Zeige mir die Antwort
+--- collapse ---
+---
+title: Zeige mir die Antwort
+---
 
 Nein, denn es gibt mittlerweile drei Dinosaurier, die vor mehr als 130 Millionen Jahren lebten, aber sie fallen in unterschiedliche Kategorien.
 
 Selbst wenn du die Kriterien auf **vor mehr als 152 Millionen Jahren** ändern würdest, könntest du sie immer noch nicht in drei Kategorien unterteilen.
 
-\--- /collapse ---
+--- /collapse ---
 
-\--- /task ---
+--- /task ---
 
 Um Dinosaurier in drei Kategorien einzuteilen, musst du eine weitere Frage hinzufügen.
 
-\--- task ---
+--- task ---
 
 Wähle einen **anderen** Datentyp aus der Tabelle aus, beispielsweise Länge oder Ernährung.
 
@@ -41,9 +42,10 @@ Welche Frage könntest du anhand dieser Daten in die leere Stelle schreiben, um 
 
 ![Ein Entscheidungsbaum mit der ersten Frage „Hat er vor mehr als 152 Millionen Jahren gelebt?“ mit Ja = Früher Dinosaurier und Nein = Platz für eine zweite Frage.](images/decision2.png)
 
-## --- collapse ---
-
-## title: Zeige mir die Antwort
+--- collapse ---
+---
+title: Zeige mir die Antwort
+---
 
 Jede der folgenden Fragen würde für jeden Dinosaurier die richtige Kategorie ergeben:
 
@@ -51,6 +53,6 @@ Jede der folgenden Fragen würde für jeden Dinosaurier die richtige Kategorie e
 - War er ein Fleischfresser?
 - Lebte er in Europa?
 
-\--- /collapse ---
+--- /collapse ---
 
-\--- /task ---
+--- /task ---
