@@ -1,0 +1,18 @@
+1
+00:00:03,800 --> 00:00:07,320
+Aber was passiert, wenn wir einen weiteren Dinosaurier hinzufügen?
+
+2
+00:00:07,320 --> 00:00:12,960
+Allosaurus ist länger als
+6 Meter, also kommt er hierhin:
+
+3
+00:00:12,960 --> 00:00:18,760
+Aber er ist ein Theropode, also sollte er hierher.
+
+4
+00:00:18,760 --> 00:00:27,600
+Welchen Teil der Frage würdest du
+ändern, damit der Entscheidungsbaum wieder funktioniert?
+

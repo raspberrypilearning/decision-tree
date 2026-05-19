@@ -1,0 +1,32 @@
+1
+00:00:04,433 --> 00:00:07,866
+Du kannst einen Entscheidungsbaum verwenden, um Dinosaurier zu kategorisieren.
+
+2
+00:00:08,032 --> 00:00:10,165
+Dieser Dinosaurier ist ein Theropode
+
+3
+00:00:10,732 --> 00:00:12,831
+und das hier ist ein Sauropod.
+
+4
+00:00:12,998 --> 00:00:16,097
+Um diese beiden Dinosaurier zu kategorisieren, könnte man die Frage stellen:
+
+5
+00:00:16,164 --> 00:00:18,399
+„War er länger als 6 Meter?“
+
+6
+00:00:20,396 --> 00:00:24,762
+Wenn man nur zwischen diesen beiden Dinosauriern entscheidet, handelt es sich um einen Sauropoden, wenn er länger als 6 Meter ist
+
+7
+00:00:24,762 --> 00:00:27,195
+und wenn nicht, ist es ein Theropode.
+
+8
+00:00:30,228 --> 00:00:34,860
+Überlege dir eine andere Frage, die du stellen könntest, um diese beiden Dinosaurierkategorien voneinander zu unterscheiden.
+
