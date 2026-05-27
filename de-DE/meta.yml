@@ -10,13 +10,12 @@ steps:
   - title: Was du machen wirst
   - title: Kategorisiere die Dinosaurier
     completion:
-      - engaged
+    - engaged
   - title: Ändere die Kategorien.
   - title: Mehrere Fragen
     completion:
-      - internal
+    - internal
   - title: Entscheidungsbaum
     challenge: true
-  - title: Wie geht es weiter?
     completion:
-      - external
+    - external
