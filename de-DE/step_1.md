@@ -17,7 +17,7 @@ Du kannst alle Videos für dieses Projekt, einschließlich des obigen, herunterl
 
 ### Daten
 
-Die Daten in diesem Projekt stammen aus dem Dinosaurierverzeichnis des Naturkundemuseums (https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"}.
+Die Daten in diesem Projekt stammen aus dem [Dinosaurierverzeichnis](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} des Naturkundemuseums.
 
 Dinosaurier-Illustrationen:
 Allosaurus, Brachiosaurus – Pixabay. Archaeoceratops – Nobu Tamura (CC BY 3.0). Bambiraptor – Conty (CC BY-SA 4.0). Chindesaurus - Jeff Martz (Gemeinfrei). Concavenator, Maiasaura – UnexpectedDinoLesson (CC BY-SA 4.0). Diplodocus, Herrerasaurus – Fred Wierum (CC BY-SA 4.0). Parksosaurus – Steveoc 86 (CC BY-SA 3.0). Zephyrosaurus – Emily Willoughby (CC BY-SA 3.0).
