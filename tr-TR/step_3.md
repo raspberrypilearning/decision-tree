@@ -16,16 +16,17 @@ Başka bir dinozorun verilerini de ekleyelim.
 
 "6 metreden daha uzun muydu?" sorusu artık dinozorları iki kategoriye ayırmanıza yardımcı olmuyor, çünkü Allosaurus bir Theropod'du ama 12 metre uzunluğundaydı.
 
-\--- task ---
+--- task ---
 
 Karar ağacının tekrar çalışması için sorunun hangi kısmını değiştirirdiniz?
 
-## --- collapse ---
-
-## başlık: Bana cevabı göster
+--- collapse ---
+---
+title: Bana cevabı göster
+---
 
 Boyutu değiştirin ve "12 metreden daha uzun muydu?" diye sorun.
 
-\--- /collapse ---
+--- /collapse ---
 
-\--- /task ---
+--- /task ---

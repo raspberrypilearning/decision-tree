@@ -6,13 +6,14 @@ Dinozorları sınıflandırmak için kağıt tabanlı kendi karar ağacınızı 
 
 ![Dinozor resimleri ve dinozorlar hakkında bilgiler içeren on bir 'kart'](images/whatyouwillmake.png)
 
-## --- collapse ---
+--- collapse ---
+---
+title: YouTube hesabınız yok mu? Videoyu indirin!
+---
 
-## başlık: YouTube hesabınız yok mu? Videoyu indirin!
+Bu projeye ait tüm videoları, yukarıdaki video da dahil olmak üzere [buraya tıklayarak](https://rpf.io/p/tr-TR/decision-tree-go){:target="_blank"} indirebilirsiniz.
 
-Bu projeye ait tüm videoları, yukarıdaki video da dahil olmak üzere [buraya tıklayarak](https://rpf.io/p/en/decision-tree-go){:target="_blank"} indirebilirsiniz.
-
-\--- /collapse ---
+--- /collapse ---
 
 ### Veri
 
