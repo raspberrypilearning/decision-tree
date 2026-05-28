@@ -1,0 +1,20 @@
+1
+00:00:04,360 --> 00:00:09,600
+Karar ağacı kullanan bir makine öğrenimi  modeli, kriterlerini sürekli olarak iyileştirmelidir.
+
+2
+00:00:09,600 --> 00:00:12,880
+Girilen veri miktarı arttıkça doğruluk da artar.
+
+3
+00:00:12,880 --> 00:00:15,040
+Buna eğitim denir.
+
+4
+00:00:15,040 --> 00:00:18,160
+Öğrendiklerinizi kullanarak bir karar ağacı çizin   
+
+5
+00:00:18,160 --> 00:00:29,720
+böylece dinozorların her kategorisini doğru bir şekilde tanımlayabilirsiniz.
+

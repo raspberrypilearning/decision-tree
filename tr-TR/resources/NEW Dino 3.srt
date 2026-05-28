@@ -1,0 +1,25 @@
+1
+00:00:04,480 --> 00:00:06,880
+Peki ya bir dinozor daha eklersek?
+
+2
+00:00:06,880 --> 00:00:15,000
+“130 milyon yıldan daha önce mi yaşadı?”  sorusu dinozorları şu şekilde ayırır:
+
+3
+00:00:15,000 --> 00:00:16,560
+Bu pek işe yaramıyor!
+
+4
+00:00:16,560 --> 00:00:20,880
+Ama soruyu '152 milyon yıl önce' olarak  değiştirsek bile,  
+
+5
+00:00:20,880 --> 00:00:29,600
+tek bir soru kullanarak hala 
+dinozorları sınıflandıramıyoruz.
+
+6
+00:00:29,600 --> 00:00:42,920
+Kalan dinozorları sınıflandırmak için hangi  soruyu kullanabilirsin?
+
