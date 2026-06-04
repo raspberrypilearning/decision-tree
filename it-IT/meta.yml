@@ -10,13 +10,12 @@ steps:
   - title: Cosa creerai
   - title: Classifica i dinosauri
     completion:
-      - engaged
+    - engaged
   - title: Modifica i criteri
   - title: Più di una domanda
     completion:
-      - internal
+    - internal
   - title: Albero decisionale
     challenge: true
-  - title: Cosa puoi fare adesso?
     completion:
-      - external
+    - external

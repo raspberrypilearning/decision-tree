@@ -7,7 +7,7 @@
 </html>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-**Scopo del progetto:** Ogni dinosauro ha una **categoria** <span style="color: #0faeb0"></span>. Una categoria descrive un gruppo di dinosauri con caratteristiche simili. Devi determinare a quale categoria appartiene un dinosauro, basandoti sui dati a tua disposizione.
+**Scopo del progetto:** Ogni dinosauro ha una <span style="color: #0faeb0">**categoria**</span>. Una categoria descrive un gruppo di dinosauri con caratteristiche simili. Devi determinare a quale categoria appartiene un dinosauro, basandoti sui dati a tua disposizione.
 </p>
 
 Ecco alcuni fatti su due diversi dinosauri:
