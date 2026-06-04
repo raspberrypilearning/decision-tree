@@ -1,0 +1,18 @@
+1
+00:00:03,800 --> 00:00:07,320
+E se aggiungessimo un altro dinosauro?
+
+2
+00:00:07,320 --> 00:00:12,960
+L'allosauro supera i 6 
+metri di lunghezza, quindi va qui:
+
+3
+00:00:12,960 --> 00:00:18,760
+ma è un teropode, quindi dovrebbe andare qui.
+
+4
+00:00:18,760 --> 00:00:27,600
+Quale modifica apporteresti alla domanda 
+per far funzionare correttamente l'albero decisionale?
+

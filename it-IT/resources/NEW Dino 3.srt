@@ -1,0 +1,28 @@
+1
+00:00:04,480 --> 00:00:06,880
+Cosa succede se aggiungiamo un altro dinosauro?
+
+2
+00:00:06,880 --> 00:00:15,000
+La domanda "È vissuto più di 130 milioni di
+anni fa?" divide i dinosauri in questo modo:
+
+3
+00:00:15,000 --> 00:00:16,560
+Non è di grande aiuto!
+
+4
+00:00:16,560 --> 00:00:20,880
+Ma anche se cambiamo la soglia
+a "152 milioni di anni fa",
+
+5
+00:00:20,880 --> 00:00:29,600
+non riusciamo comunque a 
+classificarli con una sola domanda.
+
+6
+00:00:29,600 --> 00:00:42,920
+Quale domanda potresti fare per
+categorizzare i dinosauri rimasti?
+
