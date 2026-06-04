@@ -1,6 +1,6 @@
 ## Albero decisionale
 
-\--- challenge ---
+--- challenge ---
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -32,28 +32,29 @@ Ecco un set di dati più ampio sui dinosauri:
 Perché non scarichi e stampi queste [schede dei dinosauri](resources/dinosaur_cards.pdf){:target="_blank"} per usarle come aiuto nel disegnare l'albero decisionale?
 </p>
 
-\--- task ---
+--- task ---
 
 Disegna un albero decisionale per classificare correttamente ogni <span style="color: #0faeb0">**categoria**</span> di dinosauro.
 
 **Suggerimento:** ogni domanda dovrebbe suddividere i dati in modo che alla fine ogni categoria sia chiaramente identificata.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 [Scegli un altro dinosauro](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} e usa il tuo albero decisionale per scoprire a quale categoria appartiene. Il tuo albero decisionale era corretto?
 
-\--- /task ---
+--- /task ---
 
-## --- collapse ---
-
-## title: Mostrami la risposta
+--- collapse ---
+---
+title: Mostrami la risposta
+---
 
 Ecco una possibile soluzione, ma ci sono molti altri alberi decisionali validi che potresti creare:
 
 ![Albero decisionale finale con domande: Aveva una lunghezza inferiore a 26 metri? È vissuto meno di 227 milioni di anni fa? Era carnivoro?](images/final-tree.png)
 
-\--- /collapse ---
+--- /collapse ---
 
-\--- /challenge ---
+--- /challenge ---

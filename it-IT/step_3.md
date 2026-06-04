@@ -16,16 +16,17 @@ Aggiungiamo i dati di un altro dinosauro.
 
 La domanda "Superava i 6 metri di lunghezza?" non è più utile per separare i dinosauri nelle due categorie, perché l'allosauro, pur essendo un teropode, era lungo 12 metri.
 
-\--- task ---
+--- task ---
 
 Quale modifica faresti alla domanda per renderla valida?
 
-## --- collapse ---
-
-## title: Mostrami la risposta
+--- collapse ---
+---
+title: Mostrami la risposta
+---
 
 Cambia le dimensioni e chiedi "Superava i **12** metri di lunghezza?"
 
-\--- /collapse ---
+--- /collapse ---
 
-\--- /task ---
+--- /task ---
