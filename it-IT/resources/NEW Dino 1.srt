@@ -1,0 +1,32 @@
+1
+00:00:04,433 --> 00:00:07,866
+Per categorizzare i dinosauri puoi utilizzare un albero decisionale.
+
+2
+00:00:08,032 --> 00:00:10,165
+Questo dinosauro è un teropode
+
+3
+00:00:10,732 --> 00:00:12,831
+e questo è un sauropode.
+
+4
+00:00:12,998 --> 00:00:16,097
+Per classificare questi due dinosauri potresti porre la domanda:
+
+5
+00:00:16,164 --> 00:00:18,399
+"Superava i 6 metri di lunghezza?"
+
+6
+00:00:20,396 --> 00:00:24,762
+Considerando solo questi due dinosauri, se la risposta è sì, si tratta di un sauropode
+
+7
+00:00:24,762 --> 00:00:27,195
+altrimenti, è un teropode.
+
+8
+00:00:30,228 --> 00:00:34,860
+Pensa a una domanda diversa che potresti porre per distinguere queste due categorie di dinosauri.
+
