@@ -1,0 +1,25 @@
+title: Karar ağacı kullanma
+hero_image: images/banner.png
+description: Kağıt tabanlı bir karar ağacı oluşturarak dinozorları sınıflandırın ve makine öğrenimi modellerinin verileri sınıflandırmak için karar ağaçlarını nasıl kullandığını öğrenin
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - 
+    title: Ne yapacaksınız
+  - 
+    title: Dinozorları sınıflandırın
+    completion:
+      - engaged
+  - 
+    title: Kriterleri değiştirin
+  - 
+    title: Birden fazla soru
+    completion:
+      - internal
+  - 
+    title: Karar ağacı
+    challenge: true
+    completion:
+      - external
