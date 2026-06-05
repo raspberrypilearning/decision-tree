@@ -17,6 +17,5 @@ steps:
       - internal
   - title: Karar ağacı
     challenge: true
-  - title: Sırada ne var?
     completion:
       - external
