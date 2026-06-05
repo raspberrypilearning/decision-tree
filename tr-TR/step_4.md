@@ -15,25 +15,26 @@ Bir dinozor daha ekleyelim:
 | Diplodocus    | 26                             | Otçul | Kuzey Amerika | 152                                     | Sauropod       |
 | Herrerasaurus | 3                              | Etçil | Güney Amerika | 228                                     | İlk dinozorlar |
 
-\--- task ---
+--- task ---
 
 "130 milyon yıldan daha önce yaşamış mı?" sorusunu kullanarak dinozorları kategorilere ayırmanız mümkün mü?
 
-## --- collapse ---
-
-## başlık: Bana cevabı göster
+--- collapse ---
+---
+title: Bana cevabı göster
+---
 
 Hayır, çünkü 130 milyon yıldan daha önce yaşamış üç dinozor türü var, ancak bunlar farklı kategorilerde yer alıyor.
 
 Kriterleri **152 milyon yıldan daha eski** olarak değiştirseniz bile, yine de onları üç kategoriye ayıramazsınız.
 
-\--- /collapse ---
+--- /collapse ---
 
-\--- /task ---
+--- /task ---
 
 Dinozorları üç kategoriye ayırmak için başka bir soru daha eklemeniz gerekiyor.
 
-\--- task ---
+--- task ---
 
 Tablodan **farklı** bir veri seçin; örneğin, uzunluk veya beslenme şekli.
 
@@ -41,9 +42,10 @@ Kalan dinozorları doğru şekilde sınıflandırmak için bu verileri kullanara
 
 ![İlk sorusu '152 milyon yıldan daha önce yaşamış mıydı?' olan bir karar ağacı; evet = Erken dönem dinozoru, hayır = ikinci soru için boş alan.](images/decision2.png)
 
-## --- collapse ---
-
-## başlık: Bana cevabı göster
+--- collapse ---
+---
+title: Bana cevabı göster
+---
 
 Aşağıdaki sorulardan herhangi biri, her dinozor için doğru kategoriyi verecektir:
 
@@ -51,6 +53,6 @@ Aşağıdaki sorulardan herhangi biri, her dinozor için doğru kategoriyi verec
 - Etçil miydi?
 - Avrupa'da mı yaşadı?
 
-\--- /collapse ---
+--- /collapse ---
 
-\--- /task ---
+--- /task ---
