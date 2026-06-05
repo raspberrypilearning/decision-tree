@@ -10,12 +10,12 @@ steps:
   - title: Ne yapacaksınız
   - title: Dinozorları sınıflandırın
     completion:
-      - engaged
+    - engaged
   - title: Kriterleri değiştirin
   - title: Birden fazla soru
     completion:
-      - internal
+    - internal
   - title: Karar ağacı
     challenge: true
     completion:
-      - external
+    - external
