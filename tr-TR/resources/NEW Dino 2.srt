@@ -1,0 +1,16 @@
+1
+00:00:03,800 --> 00:00:07,320
+Peki ya bir dinozor daha eklersek?
+
+2
+00:00:07,320 --> 00:00:12,960
+Allosaurus 6 metreden daha uzundur, bu  yüzden buraya yerleştirilir:
+
+3
+00:00:12,960 --> 00:00:18,760
+ama bu bir Theropod, bu yüzden buraya ait olmalı.
+
+4
+00:00:18,760 --> 00:00:27,600
+Karar ağacının tekrar çalışması için sorunun  hangi kısmını değiştirirdiniz?
+
