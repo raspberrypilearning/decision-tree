@@ -12,21 +12,19 @@
 
 Ακολουθεί ένα μεγαλύτερο σύνολο δεδομένων σχετικά με τους δεινόσαυρους:
 
-(mya = million years ago)
-
-| Name            | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
+| Όνομα            | Μήκος (μ) | Διατροφή        | Ήπειρος     | Έζησε (εκ. χρόνια πριν) | Κατηγορία       |
 | --------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
-| Allosaurus      | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
-| Archaeoceratops | 1.3           | Herbivorous | Asia          | 121                            | Ceratopsian    |
-| Bambiraptor     | 1                             | Carnivorous | North America | 84                             | Theropod       |
-| Brachiosaurus   | 30                            | Herbivorous | North America | 155                            | Sauropod       |
-| Chindesaurus    | 4                             | Carnivorous | North America | 227                            | Early dinosaur |
-| Concavenator    | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
-| Diplodocus      | 26                            | Herbivorous | North America | 152                            | Sauropod       |
-| Herrerasaurus   | 3                             | Carnivorous | South America | 228                            | Early dinosaur |
-| Maiasaura       | 9                             | Herbivorous | North America | 80                             | Ornithopod     |
-| Parksosaurus    | 3                             | Herbivorous | North America | 76                             | Ornithopod     |
-| Zephyrosaurus   | 1.8           | Herbivorous | North America | 120                            | Ornithopod     |
+| Allosaurus      | 12                            | Σαρκοφάγο | Ευρώπη        | 152                            | Theropod       |
+| Archaeoceratops | 1.3           | Φυτοφάγο | Ασία          | 121                            | Ceratopsian    |
+| Bambiraptor     | 1                             | Σαρκοφάγο | Βόρεια Αμερική | 84                             | Theropod       |
+| Brachiosaurus   | 30                            | Φυτοφάγο | Βόρεια Αμερική | 155                            | Sauropod       |
+| Chindesaurus    | 4                             | Σαρκοφάγο | Βόρεια Αμερική | 227                            | Early dinosaur |
+| Concavenator    | 6                             | Σαρκοφάγο | Ευρώπη        | 130                            | Theropod       |
+| Diplodocus      | 26                            | Herbivorous | Βόρεια Αμερική | 152                            | Sauropod       |
+| Herrerasaurus   | 3                             | Σαρκοφάγο | Νότια Αμερική | 228                            | Early dinosaur |
+| Maiasaura       | 9                             | Φυτοφάγο | Βόρεια Αμερική | 80                             | Ornithopod     |
+| Parksosaurus    | 3                             | Φυτοφάγο | Βόρεια Αμερική | 76                             | Ornithopod     |
+| Zephyrosaurus   | 1.8           | Φυτοφάγο | Βόρεια Αμερική | 120                            | Ornithopod     |
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 Γιατί να μην κατεβάσεις και να εκτυπώσεις αυτές τις [κάρτες δεινοσαύρων](resources/dinosaur_cards.pdf){:target="_blank"} και να τις χρησιμοποιήσεις για να σχεδιάσεις το δέντρο αποφάσεων;

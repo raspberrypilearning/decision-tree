@@ -8,11 +8,11 @@
 
 Ας προσθέσουμε τα δεδομένα για έναν άλλο δεινόσαυρο.
 
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
+| Όνομα         | Μήκος (μ) | Διατροφή        | Ήπειρος     | Έζησε (εκ. χρόνια πριν) | Κατηγορία |
 | ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Allosaurus   | 12                            | Carnivorous | Europe        | 152                            | Theropod |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
+| Allosaurus   | 12                            | Σαρκοφάγο | Ευρώπη        | 152                            | Theropod |
+| Concavenator | 6                             | Σαρκοφάγο | Ευρώπη        | 130                            | Theropod |
+| Diplodocus   | 26                            | Φυτοφάγο | Βόρεια Αμερική | 152                            | Sauropod |
 
 Η ερώτηση **«Είχε μήκος μεγαλύτερο από 6 μέτρα;»** δεν σε βοηθά πλέον να διαχωρίσεις τους δεινόσαυρους στις δύο κατηγορίες, επειδή ο Allosaurus είναι Allosaurus, αλλά είχε μήκος 12 μέτρα.
 

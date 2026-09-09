@@ -12,12 +12,10 @@
 
 Ακολουθούν μερικά στοιχεία για δύο διαφορετικούς δεινόσαυρους:
 
-(mya = million years ago)
-
-| Name         | Length (m) | Diet        | Continent     | Lived (mya) | Category |
+| Όνομα         | Μήκος (μ) | Διατροφή        | Ήπειρος     | Έζησε (εκ. χρόνια πριν) | Κατηγορία |
 | ------------ | ----------------------------- | ----------- | ------------- | ------------------------------ | -------- |
-| Concavenator | 6                             | Carnivorous | Europe        | 130                            | Theropod |
-| Diplodocus   | 26                            | Herbivorous | North America | 152                            | Sauropod |
+| Concavenator | 6                             | Σαρκοφάγο | Ευρώπη        | 130                            | Theropod |
+| Diplodocus   | 26                            | Φυτοφάγο | Βόρεια Αμερική | 152                            | Sauropod |
 
 Θα μπορούσες να διαχωρίσεις αυτά τα δεδομένα σε δύο <span style="color: #0faeb0">**κατηγορίες**</span> δεινοσαύρων κάνοντας την εξής ερώτηση:
 

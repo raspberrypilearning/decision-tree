@@ -10,12 +10,12 @@ steps:
   - title: Τι θα φτιάξεις
   - title: Ταξινόμησε τους δεινόσαυρους
     completion:
-      - engaged
+    - engaged
   - title: Τροποποίηση των κριτηρίων
   - title: Περισσότερες από μία ερωτήσεις
     completion:
-      - internal
+    - internal
   - title: Δέντρο αποφάσεων
     challenge: true
     completion:
-      - external
+    - external

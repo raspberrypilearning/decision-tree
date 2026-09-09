@@ -8,12 +8,12 @@
 
 Ας προσθέσουμε έναν ακόμη δεινόσαυρο:
 
-| Name          | Length (m) | Diet        | Continent     | Lived (mya) | Category       |
+| Όνομα          | Μήκος (μ) | Διατροφή        | Ήπειρος     | Έζησε (εκ. χρόνια πριν) | Κατηγορία       |
 | ------------- | ----------------------------- | ----------- | ------------- | ------------------------------ | -------------- |
-| Allosaurus    | 12                            | Carnivorous | Europe        | 152                            | Theropod       |
-| Concavenator  | 6                             | Carnivorous | Europe        | 130                            | Theropod       |
-| Diplodocus    | 26                            | Herbivorous | North America | 152                            | Sauropod       |
-| Herrerasaurus | 3                             | Carnivorous | South America | 228                            | Early dinosaur |
+| Allosaurus    | 12                            | Σαρκοφάγο | Ευρώπη        | 152                            | Theropod       |
+| Concavenator  | 6                             | Σαρκοφάγο | Ευρώπη        | 130                            | Theropod       |
+| Diplodocus    | 26                            | Φυτοφάγο | Βόρεια Αμερική | 152                            | Sauropod       |
+| Herrerasaurus | 3                             | Σαρκοφάγο | Νότια Αμερική | 228                            | Early dinosaur |
 
 --- task ---
 
