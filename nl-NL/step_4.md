@@ -15,26 +15,25 @@ Laten we nog een dinosaurus toevoegen:
 | Diplodocus    | 26                            | Planteneter | Noord-Amerika | 152                               | Sauropod          |
 | Herrerasaurus | 3                             | Vleeseter   | Zuid-Amerika  | 228                               | Vroege dinosaurus |
 
---- task ---
+\--- task ---
 
 Kun je de dinosaurussen in categorieën verdelen met behulp van de vraag: **"Leefde hij meer dan 130 miljoen jaar geleden?"**?
 
---- collapse ---
----
-title: Laat me het antwoord zien
----
+## --- collapse ---
+
+## title: Laat me het antwoord zien
 
 Nee, want er zijn nu drie dinosaurussen die meer dan 130 miljoen jaar geleden leefden, maar ze vallen in verschillende categorieën.
 
 Zelfs als je de criteria zou veranderen naar **meer dan 152 miljoen jaar geleden**, kun je ze nog steeds niet in drie categorieën verdelen.
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---
 
 Om dinosaurussen in drie categorieën te kunnen indelen, moet je nog een vraag toevoegen.
 
---- task ---
+\--- task ---
 
 Kies een **ander** stukje data uit de tabel, bijvoorbeeld lengte of voedsel.
 
@@ -42,10 +41,9 @@ Welke vraag zou je op basis van deze gegevens in de lege ruimte kunnen formulere
 
 ![Een beslisboom met de eerste vraag 'Leefde hij meer dan 152 miljoen jaar geleden?' met ja = Vroege dinosaurus en nee = een lege ruimte voor een tweede vraag.](images/decision2.png)
 
---- collapse ---
----
-title: Laat me het antwoord zien
----
+## --- collapse ---
+
+## title: Laat me het antwoord zien
 
 Elk van de volgende vragen geeft de juiste categorie voor elke dinosaurus:
 
@@ -53,6 +51,6 @@ Elk van de volgende vragen geeft de juiste categorie voor elke dinosaurus:
 - Was het een vleeseter?
 - Leefde hij in Europa?
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---

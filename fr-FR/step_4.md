@@ -15,26 +15,25 @@ Ajoutons un autre dinosaure :
 | Diplodocus    | 26                              | Herbivore    | Amérique du Nord | 152                             | Sauropode         |
 | Herrerasaurus | 3                               | Carnivore    | Amérique du Sud  | 228                             | Premier dinosaure |
 
---- task ---
+\--- task ---
 
 Est-il possible de diviser les dinosaures en catégories en utilisant la question **« A-t-il vécu il y a plus de 130 millions d'années ? »** ?
 
---- collapse ---
----
-title: Montrer la réponse
----
+## --- collapse ---
+
+## title: Montrer la réponse
 
 Non, car il existe maintenant trois dinosaures qui ont vécu il y a plus de 130 millions d’années, mais ils appartiennent à des catégories différentes.
 
 Même si tu changeais les critères à **il y a plus de 152 millions d'années**, tu ne pourrais toujours pas les séparer en trois catégories.
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---
 
 Pour classer les dinosaures en trois catégories, il faut ajouter une autre question.
 
---- task ---
+\--- task ---
 
 Choisis une donnée **différente** dans le tableau ; par exemple, la longueur ou l'alimentation.
 
@@ -42,10 +41,9 @@ Quelle question pourrais-tu écrire en utilisant ces données dans l'espace vide
 
 ![Un arbre de décision avec la première question "A-t-il vécu il y a plus de 152 millions d'années ?" avec oui = Premier dinosaure et non = un espace vide pour une deuxième question.](images/decision2.png)
 
---- collapse ---
----
-title: Montrer la réponse
----
+## --- collapse ---
+
+## title: Montrer la réponse
 
 L’une des questions suivantes donnerait la catégorie correcte pour chaque dinosaure :
 
@@ -53,6 +51,6 @@ L’une des questions suivantes donnerait la catégorie correcte pour chaque din
 - Était-il carnivore ?
 - A-t-il vécu en Europe ?
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---

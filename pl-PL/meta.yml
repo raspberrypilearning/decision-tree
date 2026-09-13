@@ -1,0 +1,25 @@
+title: Drzewo decyzyjne dinozaurów
+hero_image: images/banner.png
+description: Stwórz na papierze drzewo decyzyjne do klasyfikacji dinozaurów i dowiedz się, jak modele uczenia maszynowego wykorzystują drzewa decyzyjne do klasyfikacji danych
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - 
+    title: Co stworzysz
+  - 
+    title: Sklasyfikuj dinozaury
+    completion:
+      - engaged
+  - 
+    title: Dostosuj kryteria
+  - 
+    title: Więcej niż jedno pytanie
+    completion:
+      - internal
+  - 
+    title: Drzewo decyzyjne
+    challenge: true
+    completion:
+      - external
