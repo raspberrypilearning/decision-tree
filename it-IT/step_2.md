@@ -25,20 +25,19 @@ Puoi separare questi dati nelle due <span style="color: #0faeb0">**categorie**</
 
 Se la risposta è **sì**, il dinosauro deve essere un sauropoda, se invece è **no**, allora deve essere un teropode.
 
---- task ---
+\--- task ---
 
 Pensa a una domanda diversa che potresti porre per distinguere queste due categorie di dinosauri.
 
---- collapse ---
----
-title: Mostrami la risposta
----
+## --- collapse ---
+
+## title: Mostrami la risposta
 
 - Viveva in Nord America?
 - Era carnivoro?
 - Il suo nome inizia con la lettera "C"?
 - È vissuto più di 130 milioni di anni fa?
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---

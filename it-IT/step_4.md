@@ -15,26 +15,25 @@ Aggiungiamo un altro dinosauro:
 | Diplodoco     | 26                               | Erbivoro  | America del Nord | 152                             | Sauropoda           |
 | Herrerasaurus | 3                                | Carnivoro | Sud America      | 228                             | Dinosauro primitivo |
 
---- task ---
+\--- task ---
 
 È possibile dividere i dinosauri in categorie utilizzando la domanda **"Erano vissuti più di 130 milioni di anni fa?"**?
 
---- collapse ---
----
-title: Mostrami la risposta
----
+## --- collapse ---
+
+## title: Mostrami la risposta
 
 No, perché ci sono tre dinosauri vissuti più di 130 milioni di anni fa, ma appartengono a categorie diverse.
 
 Anche se modificassimo il criterio in **più di 152 milioni di anni fa**, non potremmo comunque separarli in tre categorie.
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---
 
 Per dividere i dinosauri in tre categorie, devi aggiungere un'altra domanda.
 
---- task ---
+\--- task ---
 
 Scegli un dato **diverso** dalla tabella, ad esempio lunghezza o dieta.
 
@@ -42,10 +41,9 @@ Quale domanda potresti scrivere utilizzando questi dati nello spazio vuoto per c
 
 ![Un albero decisionale con la prima domanda "È vissuto più di 152 milioni di anni fa?" con Sì = Dinosauro primitivo, e No = uno spazio vuoto per una seconda domanda.](images/decision2.png)
 
---- collapse ---
----
-title: Mostrami la risposta
----
+## --- collapse ---
+
+## title: Mostrami la risposta
 
 Ognuna delle seguenti domande fornisce la categoria corretta per ogni dinosauro:
 
@@ -53,6 +51,6 @@ Ognuna delle seguenti domande fornisce la categoria corretta per ogni dinosauro:
 - Era carnivoro?
 - Viveva in Europa?
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---

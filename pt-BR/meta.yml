@@ -1,0 +1,25 @@
+title: Árvore de decisão dos dinossauros
+hero_image: images/banner.png
+description: Crie uma árvore de decisão em papel para classificar dinossauros e aprenda como os modelos de aprendizado de máquina usam árvores de decisão para classificar dados
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - 
+    title: O que você vai fazer
+  - 
+    title: Classifique os dinossauros
+    completion:
+      - engaged
+  - 
+    title: Modifique os critérios
+  - 
+    title: Mais de uma pergunta
+    completion:
+      - internal
+  - 
+    title: Árvore de decisão
+    challenge: true
+    completion:
+      - external

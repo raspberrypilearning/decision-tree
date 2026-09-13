@@ -1,6 +1,6 @@
 ## Beslisboom
 
---- challenge ---
+\--- challenge ---
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -32,29 +32,28 @@ Hier is een grotere verzameling gegevens over dinosaurussen:
 Je zou ook deze [dinosauruskaarten](resources/dinosaur_cards.pdf){:target="_blank"} kunnen downloaden en printen en ze gebruiken om de beslisboom te tekenen.
 </p>
 
---- task ---
+\--- task ---
 
 Teken een beslisboom waarmee je elke <span style="color: #0faeb0">**categorie**</span> dinosaurus correct kunt identificeren.
 
 **Tip:** Splits de gegevens bij elke vraag zo op, zodat één categorie dinosaurussen volledig wordt geïdentificeerd.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 [Kies een andere dinosaurus](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} en gebruik je beslisboom om te bepalen in welke categorie deze valt. Werkte je beslisboom correct?
 
---- /task ---
+\--- /task ---
 
---- collapse ---
----
-title: Laat me het antwoord zien
----
+## --- collapse ---
+
+## title: Laat me het antwoord zien
 
 Hier is een mogelijke oplossing, maar er zijn veel andere correcte bomen die je kunt tekenen:
 
 ![Definitieve beslisboom met vragen: Was hij korter dan 26 m? Leefde hij minder dan 227 miljoen jaar geleden? Was het een vleeseter?](images/final-tree.png)
 
---- /collapse ---
+\--- /collapse ---
 
---- /challenge ---
+\--- /challenge ---
