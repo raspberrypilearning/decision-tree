@@ -16,17 +16,16 @@ Laten we de gegevens van nog een dinosaurus toevoegen.
 
 De vraag **"Was hij langer dan 6 meter?"** helpt je niet meer om de dinosaurussen in twee categorieën te verdelen, omdat de Allosaurus een Theropod is, maar hij was wel 12 meter lang.
 
---- task ---
+\--- task ---
 
 Welk deel van de vraag zou je veranderen zodat het weer werkt?
 
---- collapse ---
----
-title: Laat me het antwoord zien
----
+## --- collapse ---
+
+## title: Laat me het antwoord zien
 
 Verander de grootte en vraag: "Was hij langer dan **12** meter?"
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---

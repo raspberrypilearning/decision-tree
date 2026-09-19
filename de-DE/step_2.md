@@ -25,20 +25,19 @@ Du kannst diese Daten in zwei <span style="color: #0faeb0">**Kategorien**</span>
 
 Wenn die Antwort **Ja** lautet, muss der Dinosaurier ein Sauropod sein, und wenn sie **Nein** lautet, muss es ein Theropode sein.
 
---- task ---
+\--- task ---
 
 Überlege dir eine andere Frage, die du stellen könntest, um diese beiden Dinosaurierkategorien voneinander zu unterscheiden.
 
---- collapse ---
----
-title: Zeig mir die Antwort
----
+## --- collapse ---
+
+## Titel: Zeig mir die Antwort
 
 - Lebte er in Nordamerika?
 - War er ein Fleischfresser?
 - Beginnt sein Name mit „C“?
 - Lebte er vor mehr als 130 Millionen Jahren?
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---

@@ -1,0 +1,22 @@
+1
+00:00:04,360 --> 00:00:09,600
+Um modelo de aprendizado de máquina que usa uma árvore
+de decisão deve refinar repetidamente seus critérios.
+
+2
+00:00:09,600 --> 00:00:12,880
+Quanto mais dados forem inseridos, mais preciso ele se torna.
+
+3
+00:00:12,880 --> 00:00:15,040
+Isto se chama treinamento.
+
+4
+00:00:15,040 --> 00:00:18,160
+Use o que você aprendeu para desenhar
+uma árvore de decisão que lhe permite
+
+5
+00:00:18,160 --> 00:00:29,720
+identificar corretamente cada categoria de dinossauro.
+
