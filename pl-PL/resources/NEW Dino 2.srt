@@ -1,0 +1,18 @@
+1
+00:00:03,800 --> 00:00:07,320
+A co jeśli dodamy kolejnego dinozaura?
+
+2
+00:00:07,320 --> 00:00:12,960
+Allozaur ma więcej niż 6 metrów długości, 
+więc należy go umieścić tutaj:
+
+3
+00:00:12,960 --> 00:00:18,760
+ale to teropod, więc powinien znaleźć się tutaj.
+
+4
+00:00:18,760 --> 00:00:27,600
+Którą część pytania trzeba zmienić, 
+aby drzewo decyzyjne znów działało?
+

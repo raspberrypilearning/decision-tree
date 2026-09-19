@@ -1,0 +1,28 @@
+1
+00:00:04,480 --> 00:00:06,880
+O que acontece se adicionarmos outro dinossauro?
+
+2
+00:00:06,880 --> 00:00:15,000
+A pergunta "Viveu há mais de 130 milhões de 
+anos?" divide os dinossauros assim:
+
+3
+00:00:15,000 --> 00:00:16,560
+Isso não tem muita utilidade!
+
+4
+00:00:16,560 --> 00:00:20,880
+Mas mesmo se mudarmos a questão 
+para "152 milhões de anos atrás",
+
+5
+00:00:20,880 --> 00:00:29,600
+ainda não podemos categorizar os dinossauros
+usando apenas uma pergunta.
+
+6
+00:00:29,600 --> 00:00:42,920
+Que pergunta você poderia usar para
+categorizar os dinossauros restantes?
+

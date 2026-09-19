@@ -1,6 +1,6 @@
 ## Karar ağacı
 
---- challenge ---
+\--- challenge ---
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -32,29 +32,28 @@ Karar ağacı kullanan bir makine öğrenimi modeli, kriterlerini sürekli olara
 Neden bu [dinozor kartlarını](resources/dinosaur_cards.pdf){:target="_blank"} indirip ve yazdırıp karar ağacını çizmenize yardımcı olmaları için kullanmıyorsunuz?
 </p>
 
---- task ---
+\--- task ---
 
 Dinozorların her bir <span style="color: #0faeb0">**kategorisini**</span> doğru bir şekilde tanımlamanıza olanak tanıyan bir karar ağacı çizin.
 
 **İpucu:** Her soru, dinozor kategorilerinden birinin tamamen tanımlanmasını sağlayacak şekilde verileri bölmelidir.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 [Başka bir dinozor seçin](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} ve karar ağacınızı kullanarak hangi kategoriye ait olduğunu belirleyin. Karar ağacınız doğru muydu?
 
---- /task ---
+\--- /task ---
 
---- collapse ---
----
-title: Bana cevabı göster
----
+## --- collapse ---
+
+## başlık: Bana cevabı göster
 
 İşte olası bir çözüm, ancak çizebileceğiniz birçok geçerli ağaç var:
 
 ![Soruları içeren nihai karar ağacı: 26 metreden kısa mıydı? 227 milyon yıldan daha az bir süre önce mi yaşadı? Etçil miydi?](images/final-tree.png)
 
---- /collapse ---
+\--- /collapse ---
 
---- /challenge ---
+\--- /challenge ---
