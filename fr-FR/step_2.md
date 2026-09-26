@@ -14,10 +14,10 @@ Voici quelques faits sur deux dinosaures différents :
 
 (mda = millions d'années)
 
-| Nom        | Longueur (m) | Alimentation | Continent      | A vécu (mda) | Catégorie  |
-|------------|--------------|--------------|----------------|--------------|------------|
-| Concavenator | 6           | Carnivore    | Europe         | 130          | Théropode |
-| Diplodocus   | 26          | Herbivore    | Amérique du Nord | 152          | Sauropode |
+| Nom          | Longueur (m) | Alimentation | Continent        | A vécu (mda) | Catégorie |
+| ------------ | ------------------------------- | ------------ | ---------------- | ------------------------------- | --------- |
+| Concavenator | 6                               | Carnivore    | Europe           | 130                             | Théropode |
+| Diplodocus   | 26                              | Herbivore    | Amérique du Nord | 152                             | Sauropode |
 
 Tu peux séparer ces données en deux <span style="color: #0faeb0">**catégories**</span> de dinosaures en posant cette question :
 
@@ -25,20 +25,19 @@ Tu peux séparer ces données en deux <span style="color: #0faeb0">**catégories
 
 Si la réponse est **oui**, le dinosaure doit être un sauropode, et si c'est **non**, alors il doit être un théropode.
 
---- task ---
+\--- task ---
 
 Réfléchis à une question différente que tu pourrais poser pour distinguer ces deux catégories de dinosaures.
 
---- collapse ---
----
-title: Montrer la réponse
----
+## --- collapse ---
+
+## title: Montrer la réponse
 
 - A-t-il vécu en Amérique du Nord ?
 - Était-il carnivore ?
 - Son nom commence-t-il par « C » ?
 - A-t-il vécu il y a plus de 130 millions d’années ?
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---
