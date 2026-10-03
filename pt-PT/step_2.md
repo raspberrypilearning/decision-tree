@@ -25,20 +25,19 @@ Podes separar estes dados em duas <span style="color: #0faeb0">**categorias**</s
 
 Se a resposta for **sim**, o dinossauro deve ser um Sauropoda, e se for **não** deve ser um Theropoda.
 
---- task ---
+\--- task ---
 
 Pensa numa pergunta diferente que possas fazer para separar estas duas categorias de dinossauros.
 
---- collapse ---
----
-title: Mostra-me a resposta
----
+## --- collapse ---
+
+## title: Mostra-me a resposta
 
 - Viveu na América do Norte?
 - Era carnívoro?
 - O nome começa com 'C'?
 - Viveu há mais de 130 milhões de anos?
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---

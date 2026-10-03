@@ -1,0 +1,22 @@
+1
+00:00:04,360 --> 00:00:09,600
+Model uczenia maszynowego wykorzystujący drzewo decyzyjne 
+musi wielokrotnie udoskonalać swoje kryteria.
+
+2
+00:00:09,600 --> 00:00:12,880
+Im więcej danych zostanie wprowadzonych, tym będzie on dokładniejszy.
+
+3
+00:00:12,880 --> 00:00:15,040
+To jest nazywane treningiem.
+
+4
+00:00:15,040 --> 00:00:18,160
+Wykorzystaj zdobytą wiedzę, aby narysować 
+drzewo decyzyjne, które pozwoli Ci  
+
+5
+00:00:18,160 --> 00:00:29,720
+poprawnie zidentyfikować każdą kategorię dinozaurów.
+
