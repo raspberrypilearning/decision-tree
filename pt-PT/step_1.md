@@ -6,14 +6,13 @@ Cria a tua própria árvore de decisão em papel para classificar os dinossauros
 
 ![Onze 'cartões' com imagens de dinossauros e factos sobre os dinossauros](images/whatyouwillmake.png)
 
---- collapse ---
----
-title: Não tens Youtube? Descarrega o vídeo!
----
+## --- collapse ---
+
+## title: Não tens Youtube? Descarrega o vídeo!
 
 Podes descarregar todos os vídeos deste projeto, incluindo o vídeo acima [ao clicar aqui](https://rpf.io/p/pt-PT/decision-tree-go){:target="_blank"}.
 
---- /collapse ---
+\--- /collapse ---
 
 ### Dados
 
