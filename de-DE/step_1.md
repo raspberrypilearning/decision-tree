@@ -6,14 +6,13 @@ Erstellen deinen eigenen papierbasierten Entscheidungsbaum zur Kategorisierung v
 
 ![Elf ‚Karten‘ mit Dinosaurierbildern und Fakten über die Dinosaurier](images/whatyouwillmake.png)
 
---- collapse ---
----
-title: Kein YouTube? Lade das Video herunter!
----
+## --- collapse ---
 
-Du kannst alle Videos für dieses Projekt, einschließlich des obigen, herunterladen [, indem du hier klickst](https://rpf.io/p/de-DE/decision-tree-go){:target="_blank"}.
+## Title: Kein YouTube? Lade das Video herunter!
 
---- /collapse ---
+Du kannst alle Videos für dieses Projekt, einschließlich des obigen, herunterladen [, indem du hier klickst](https://rpf.io/p/en/decision-tree-go){:target="_blank"}.
+
+\--- /collapse ---
 
 ### Daten
 
