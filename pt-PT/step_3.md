@@ -16,17 +16,16 @@ Vamos adicionar mais dados de outro dinossauro.
 
 A pergunta **"Tinha mais que 6 metros de comprimento?** não ajuda mais a separar os dinossauros entre duas categorias, porque o Alossauro é um Theropoda mas tinha 12 metros de comprimento.
 
---- task ---
+\--- task ---
 
 Que parte da pergunta terias que mudar para fazer com que funcione outra vez?
 
---- collapse ---
----
-title: Mostra-me a resposta
----
+## --- collapse ---
+
+## title: Mostra-me a resposta
 
 Altera o tamanho e pergunta "Era maior que **12** metros?"
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---
