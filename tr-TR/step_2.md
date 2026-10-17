@@ -25,20 +25,19 @@
 
 Cevap **evet** ise, dinozor bir Sauropod olmalı; **hayır** ise, bir Theropod olmalı.
 
---- task ---
+\--- task ---
 
 Bu iki dinozor kategorisini birbirinden ayırmak için sorabileceğiniz farklı bir soru düşünün.
 
---- collapse ---
----
-title: Bana cevabı göster
----
+## --- collapse ---
+
+## başlık: Bana cevabı göster
 
 - Kuzey Amerika'da mı yaşadı?
 - Etçil miydi?
 - Adı 'C' harfiyle mi başlıyor?
 - 130 milyon yıldan daha önce yaşamış mıydı?
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---
