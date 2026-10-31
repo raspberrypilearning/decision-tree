@@ -1,0 +1,18 @@
+1
+00:00:03,800 --> 00:00:07,320
+¿Pero qué pasa si añadimos otro dinosaurio?
+
+2
+00:00:07,320 --> 00:00:12,960
+El Allosaurus mide más de
+6 metros, por eso va aquí:
+
+3
+00:00:12,960 --> 00:00:18,760
+pero es un terópodo, por eso debería ir aquí.
+
+4
+00:00:18,760 --> 00:00:27,600
+¿Qué parte de la pregunta cambiarías
+para que el árbol de decisiones funcione nuevamente?
+

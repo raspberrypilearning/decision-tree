@@ -16,17 +16,16 @@ Ajoutons les données pour un autre dinosaure.
 
 La question « Était-il plus long que 6 mètres ? » ne t'aide plus à séparer les dinosaures en deux catégories, car l'Allosaure est un théropode, mais il mesurait 12 m de long.
 
---- task ---
+\--- task ---
 
 Quelle partie de la question changerais-tu pour qu'elle fonctionne à nouveau ?
 
---- collapse ---
----
-title: Montrer la réponse
----
+## --- collapse ---
+
+## title: Montrer la réponse
 
 Modifie la taille et demande : « Était-il plus long que **12** mètres ? »
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---
