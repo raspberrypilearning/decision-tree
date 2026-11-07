@@ -1,6 +1,6 @@
 ## Árvore de decisão
 
---- challenge ---
+\--- challenge ---
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -32,29 +32,28 @@ Aqui está um conjunto de dados maior sobre dinossauros:
 Porque não descarregar e imprimir estas [cartas de dinossauros](resources/dinosaur_cards.pdf){:target="_blank"} e usá-las como ajuda para desenhares a árvore de decisão?
 </p>
 
---- task ---
+\--- task ---
 
 Desenha uma árvore de decisão que permita identificar corretamente cada <span style="color: #0faeb0">**categoria**</span> de dinossauros.
 
 **Dica:** Cada pergunta deve dividir os dados para que uma das categorias de dinossauros seja identificada totalmente.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 [Escolhe outro dinossauro](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} e usa a tua árvore de decisão para identificar em qual categoria ele está. A tua árvore de decisão estava correta?
 
---- /task ---
+\--- /task ---
 
---- collapse ---
----
-title: Mostra-me a resposta
----
+## --- collapse ---
+
+## title: Mostra-me a resposta
 
 Aqui está uma solução possível, mas há muitas árvores válidas que podes desenhar:
 
 ![Árvore de decisão final com perguntas: Tinha menos de 26m de comprimento? Viveu há menos de 227 milhões de anos? Era carnívoro?](images/final-tree.png)
 
---- /collapse ---
+\--- /collapse ---
 
---- /challenge ---
+\--- /challenge ---
