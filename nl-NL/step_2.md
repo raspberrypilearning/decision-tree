@@ -25,20 +25,19 @@ Je kunt deze gegevens opsplitsen in de twee <span style="color: #0faeb0">**categ
 
 Als het antwoord **ja** is, dan moet de dinosaurus een Sauropod zijn, als het antwoord **nee** is, dan moet het een Theropod zijn.
 
---- task ---
+\--- task ---
 
 Bedenk een andere vraag die je zou kunnen stellen om deze twee categorieën dinosaurussen te onderscheiden.
 
---- collapse ---
----
-title: Laat me het antwoord zien
----
+## --- collapse ---
+
+## title: Laat me het antwoord zien
 
 - Leefde hij in Noord-Amerika?
 - Was het een vleesetend dier?
 - Begint de naam met een 'C'?
 - Leefde hij meer dan 130 miljoen jaar geleden?
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---
