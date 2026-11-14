@@ -6,14 +6,13 @@ Crea il tuo albero decisionale su carta per classificare i dinosauri e scopri co
 
 ![Undici 'schede' con immagini e fatti sui dinosauri](images/whatyouwillmake.png)
 
---- collapse ---
----
-title: Non riesci ad accedere a YouTube? Scarica il video!
----
+## --- collapse ---
 
-Puoi scaricare tutti i video di questo progetto, incluso quello sopra, [cliccando qui](https://rpf.io/p/it-IT/decision-tree-go){:target="_blank"}.
+## title: Non riesci ad accedere a YouTube? Scarica il video!
 
---- /collapse ---
+Puoi scaricare tutti i video di questo progetto, incluso quello sopra, [cliccando qui](https://rpf.io/p/en/decision-tree-go){:target="_blank"}.
+
+\--- /collapse ---
 
 ### Dati
 
