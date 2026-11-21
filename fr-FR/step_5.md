@@ -1,6 +1,6 @@
 ## Arbre de décision
 
---- challenge ---
+\--- challenge ---
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -29,32 +29,31 @@ Voici un ensemble plus vaste de données sur les dinosaures :
 | Zéphyrosaure   | 1,8                             | Herbivore    | Amérique du Nord | 120                             | Ornithopode       |
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Pourquoi ne pas télécharger et imprimer ces [cartes de dinosaures](resources/dinosaur_cards.pdf){:target="_blank"} et les utiliser pour t'aider à dessiner l'arbre de décision ?
+Pourquoi ne pas télécharger et imprimer ces [cartes de dinosaures] (resources/dinosaur_cards.pdf){:target="_blank"} et les utiliser pour t'aider à dessiner l'arbre de décision ?
 </p>
 
---- task ---
+\--- task ---
 
 Dessine un arbre de décision qui te permet d'identifier correctement chaque <span style="color: #0faeb0">**catégorie**</span> de dinosaure.
 
 **Astuce :** chaque question doit diviser les données de manière à ce qu’une catégorie de dinosaure soit entièrement identifiée.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 [Choisis un autre dinosaure](https://www.nhm.ac.uk/discover/dino-directory.html){:target="_blank"} et utilise ton arbre de décision pour identifier dans quelle catégorie il se trouve. Ton arbre de décision était-il correct ?
 
---- /task ---
+\--- /task ---
 
---- collapse ---
----
-title: Montrer la réponse
----
+## --- collapse ---
+
+## title: Montrer la réponse
 
 Voici une solution possible, mais il existe de nombreux arbres valides que tu pourrais dessiner :
 
-![Arbre de décision final avec les questions : Était-il moins long que de 26 m de long ? A-t-il vécu il y a moins de 227 millions d'années ? Était-il carnivore ?](images/final-tree.png)
+! [Arbre de décision final avec les questions : Était-il moins long que de 26 m de long ? A-t-il vécu il y a moins de 227 millions d'années ? Était-il carnivore ?](images/final-tree.png)
 
---- /collapse ---
+\--- /collapse ---
 
---- /challenge ---
+\--- /challenge ---
