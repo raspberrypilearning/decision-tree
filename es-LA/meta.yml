@@ -1,0 +1,25 @@
+title: Árbol de decisiones de dinosaurios
+hero_image: images/banner.png
+description: Crea un árbol de decisiones en papel para clasificar dinosaurios y aprende cómo los modelos de aprendizaje automático utilizan árboles de decisiones para clasificar datos
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - 
+    title: Lo que harás
+  - 
+    title: Clasifica los dinosaurios
+    completion:
+      - engaged
+  - 
+    title: Modifica los criterios
+  - 
+    title: Más de una pregunta
+    completion:
+      - internal
+  - 
+    title: Árbol de decisiones
+    challenge: true
+    completion:
+      - external
